@@ -1,0 +1,647 @@
+,Title,Year,imdbID,Type,Poster
+0,Batman Begins,2005,tt0372784,movie,"https://m.media-amazon.com/images/M/MV5BMzA2NDQzZDEtNDU5Ni00YTlkLTg2OWEtYmQwM2Y1YTBjMjFjXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+1,The Batman,2022,tt1877830,movie,"https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+2,Batman v Superman: Dawn of Justice,2016,tt2975590,movie,"https://m.media-amazon.com/images/M/MV5BZTJkYjdmYjYtOGMyNC00ZGU1LThkY2ItYTc1OTVlMmE2YWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+3,Batman,1989,tt0096895,movie,https://m.media-amazon.com/images/M/MV5BYzZmZWViM2EtNzhlMi00NzBlLWE0MWEtZDFjMjk3YjIyNTBhXkEyXkFqcGc@._V1_SX300.jpg
+4,Batman Returns,1992,tt0103776,movie,https://m.media-amazon.com/images/M/MV5BZTliMDVkYTktZDdlMS00NTAwLWJhNzYtMWIwMDZjN2ViMGFiXkEyXkFqcGc@._V1_SX300.jpg
+5,Batman & Robin,1997,tt0118688,movie,https://m.media-amazon.com/images/M/MV5BYzU3ZjE3M2UtM2E4Ni00MDI5LTkyZGUtOTFkMGIyYjNjZGU3XkEyXkFqcGc@._V1_SX300.jpg
+6,Batman Forever,1995,tt0112462,movie,https://m.media-amazon.com/images/M/MV5BMTUyNjJhZWItMTZkNS00NDc4LTllNjUtYTg3NjczMzA5ZTViXkEyXkFqcGc@._V1_SX300.jpg
+7,The Lego Batman Movie,2017,tt4116284,movie,https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg
+8,Batman: The Animated Series,1992–1995,tt0103359,series,https://m.media-amazon.com/images/M/MV5BYjgwZWUzMzUtYTFkNi00MzM0LWFkMWUtMDViMjMxNGIxNDUxXkEyXkFqcGc@._V1_SX300.jpg
+9,Batman v Superman: Dawn of Justice (Ultimate Edition),2016,tt18689424,movie,https://m.media-amazon.com/images/M/MV5BOTRlNWQwM2ItNjkyZC00MGI3LThkYjktZmE5N2FlMzcyNTIyXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+10,Batman: The Killing Joke,2016,tt4853102,movie,https://m.media-amazon.com/images/M/MV5BMzJiZTJmNGItYTUwNy00ZWE2LWJlMTgtZjJkNzY1OTRiNTZlXkEyXkFqcGc@._V1_SX300.jpg
+11,Batman: Mask of the Phantasm,1993,tt0106364,movie,https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_SX300.jpg
+12,Batman: Under the Red Hood,2010,tt1569923,movie,https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+13,"Batman: The Dark Knight Returns, Part 1",2012,tt2313197,movie,https://m.media-amazon.com/images/M/MV5BMzIxMDkxNDM2M15BMl5BanBnXkFtZTcwMDA5ODY1OQ@@._V1_SX300.jpg
+14,"Batman: The Dark Knight Returns, Part 2",2013,tt2166834,movie,https://m.media-amazon.com/images/M/MV5BYTEzMmE0ZDYtYWNmYi00ZWM4LWJjOTUtYTE0ZmQyYWM3ZjA0XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg
+15,Batman: The Movie,1966,tt0060153,movie,https://m.media-amazon.com/images/M/MV5BNzEyYWZjNTAtNGRhZi00ZjFiLTlhYmQtNzhhYzJiZmMwNGI1XkEyXkFqcGc@._V1_SX300.jpg
+16,Batman Beyond,1999–2001,tt0147746,series,https://m.media-amazon.com/images/M/MV5BMDExYjNiYTYtZDkwZC00NDcxLTk3YWYtMmIyN2ZlZGYyY2E0XkEyXkFqcGc@._V1_SX300.jpg
+17,Son of Batman,2014,tt3139072,movie,https://m.media-amazon.com/images/M/MV5BZTVhZGUxMmEtNDdlMi00MTA5LTgxNjctNGJmNDBmYTQ5YTIyXkEyXkFqcGc@._V1_SX300.jpg
+18,Batman: Year One,2011,tt1672723,movie,https://m.media-amazon.com/images/M/MV5BNTJjMmVkZjctNjNjMS00ZmI2LTlmYWEtOWNiYmQxYjY0YWVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+19,Batman: Assault on Arkham,2014,tt3139086,movie,https://m.media-amazon.com/images/M/MV5BZDU1ZGRiY2YtYmZjMi00ZDQwLWJjMWMtNzUwNDMwYjQ4ZTVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+20,Batman,1966–1968,tt0059968,series,https://m.media-amazon.com/images/M/MV5BZWFjNTdlZjctZTRkNC00OTQ1LWI3NDktOWY0ZWZmNzFiOTNkXkEyXkFqcGc@._V1_SX300.jpg
+21,Batman: Gotham Knight,2008,tt1117563,movie,https://m.media-amazon.com/images/M/MV5BM2I0YTFjOTUtMWYzNC00ZTgyLTk2NWEtMmE3N2VlYjEwN2JlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+22,Batman: Arkham City,2011,tt1568322,game,https://m.media-amazon.com/images/M/MV5BZDE2ZDFhMDAtMDAzZC00ZmY3LThlMTItMGFjMzRlYzExOGE1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+23,Superman/Batman: Apocalypse,2010,tt1673430,movie,https://m.media-amazon.com/images/M/MV5BMjk3ODhmNjgtZjllOC00ZWZjLTkwYzQtNzc1Y2ZhMjY2ODE0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+24,Batman Beyond: Return of the Joker,2000,tt0233298,movie,https://m.media-amazon.com/images/M/MV5BNmRmODEwNzctYzU1MS00ZDQ1LWI2NWMtZWFkNTQwNDg1ZDFiXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg
+25,Batman Ninja,2018,tt7451284,movie,https://m.media-amazon.com/images/M/MV5BNjdhMGVhMjEtNzgyZC00ZGNiLWFkN2QtNjdmNTg2MzVjOTMwXkEyXkFqcGc@._V1_SX300.jpg
+26,"Batman: The Long Halloween, Part One",2021,tt14324650,movie,https://m.media-amazon.com/images/M/MV5BNzQ2NTY5YmUtMjQ2Yi00NzhhLWI4OGItNTIxNTVkZGE0ZGIwXkEyXkFqcGc@._V1_SX300.jpg
+27,Superman/Batman: Public Enemies,2009,tt1398941,movie,https://m.media-amazon.com/images/M/MV5BZDc5NTFiMzgtZWJiOS00N2M1LWJmOGYtZmNjMzFhMzcxZjRiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+28,Batman: Bad Blood,2016,tt4870838,movie,https://m.media-amazon.com/images/M/MV5BZWZiZmZhYmQtYjVkZi00MWIzLWEzM2MtYzhkNjliNzc2MTMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg
+29,The New Batman Adventures,1997–1999,tt0118266,series,https://m.media-amazon.com/images/M/MV5BZGY3M2UyMmQtMWM5Zi00Njg1LWIxOWUtYmE0Mjg3Zjg3NTdiXkEyXkFqcGc@._V1_SX300.jpg
+30,Batman vs. Robin,2015,tt4324274,movie,https://m.media-amazon.com/images/M/MV5BMjI0ODY2MDE5Nl5BMl5BanBnXkFtZTgwMTk0NTcyNTE@._V1_SX300.jpg
+31,Batman: Arkham Asylum,2009,tt1282022,game,https://m.media-amazon.com/images/M/MV5BMWE1MGI0ZmItNzU2My00Mzk5LThkNTMtMmFiMjRiZDNlNzkwXkEyXkFqcGdeQXVyNjgyODQ1Mzk@._V1_SX300.jpg
+32,Batman: Gotham by Gaslight,2018,tt7167630,movie,https://m.media-amazon.com/images/M/MV5BZDc5OWM2NWEtZjRhYy00NzkxLWI2NmUtNDA0NjM4MjIwOWI4XkEyXkFqcGc@._V1_SX300.jpg
+33,"Batman: The Long Halloween, Part Two",2021,tt14402926,movie,https://m.media-amazon.com/images/M/MV5BYWViZDQ4NGYtYjEwMi00YjFhLTg4NjQtNDlmNjY3YTJlZjIyXkEyXkFqcGc@._V1_SX300.jpg
+34,The Batman: Deleted Arkham Scene,2022,tt19064880,movie,"https://m.media-amazon.com/images/M/MV5BNDE2ZGFjOWEtYjc4Mi00ZTdmLWE2MDEtZWMzYWE1NmE4NTg4XkEyXkFqcGc@._V1_QL75_UX380_CR0,10,380,562_.jpg"
+35,Batman and Harley Quinn,2017,tt6556890,movie,https://m.media-amazon.com/images/M/MV5BOTk5NjhjY2ItM2ViYi00YjZjLWEyZDgtNzRjOTYwMmY4YjVmXkEyXkFqcGc@._V1_SX300.jpg
+36,Batman: Caped Crusader,2024–,tt14681596,series,https://m.media-amazon.com/images/M/MV5BODljODc0MzYtMWRlMi00NmU5LWI0NzAtNWZmZmU3YWFkNTE4XkEyXkFqcGc@._V1_SX300.jpg
+37,Batman: Hush,2019,tt8752440,movie,https://m.media-amazon.com/images/M/MV5BYWY5ODhlMWQtNDRiMC00MDk0LTgyMDItYmRmYWFkMjdmYWFmXkEyXkFqcGdeQXVyNTA4NzExMDg@._V1_SX300.jpg
+38,The Batman,2004–2008,tt0398417,series,https://m.media-amazon.com/images/M/MV5BZGRkYTkyOGQtZDVlYy00ZjhjLTk5YjMtNzgxMWUxZTk1ZWZkXkEyXkFqcGc@._V1_SX300.jpg
+39,Batman & Mr. Freeze: SubZero,1998,tt0143127,movie,https://m.media-amazon.com/images/M/MV5BOTQ0NmUzMzAtODk5My00MzYwLThlYWEtY2NkOGNhODg5ZmY1XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+40,Batman Begins,2005,tt0450392,game,https://m.media-amazon.com/images/M/MV5BYWRkMGNjYmQtMTJlMi00ODgyLWIyZGEtOTZkY2FlZWI3NzIwXkEyXkFqcGdeQXVyNDEyNjEzOTg@._V1_SX300.jpg
+41,Batman: Arkham Origins,2013,tt2842418,game,https://m.media-amazon.com/images/M/MV5BMzczNTkxODU5NF5BMl5BanBnXkFtZTgwNDcwMzU1MDE@._V1_SX300.jpg
+42,Batman: Mystery of the Batwoman,2003,tt0346578,movie,https://m.media-amazon.com/images/M/MV5BN2IwYTVlZGQtOTRhNy00MDI5LThmMTUtYWI1MGUwMGFkYzI1XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg
+43,Batman: The Brave and the Bold,2008–2011,tt1213218,series,https://m.media-amazon.com/images/M/MV5BM2FkYTQ2MzUtNWI1NC00MTM0LTgyNzYtMDM3NmE1OWYyNjRjXkEyXkFqcGc@._V1_SX300.jpg
+44,The Batman Superman Movie: World's Finest,1997,tt0169590,movie,https://m.media-amazon.com/images/M/MV5BZmYwMWM1MTEtODA0ZS00OTY3LTgzMTQtOGY5Y2Q2ZmNjNTg1XkEyXkFqcGc@._V1_SX300.jpg
+45,Batman vs Teenage Mutant Ninja Turtles,2019,tt9775360,movie,https://m.media-amazon.com/images/M/MV5BNzk3MGZlYWQtNDU4Ny00Y2I5LTk2YmItM2QxYjFiMjM0ZmQxXkEyXkFqcGdeQXVyNDUzMTkzMDI@._V1_SX300.jpg
+46,The Batman vs. Dracula,2005,tt0472219,movie,https://m.media-amazon.com/images/M/MV5BMTkyMTMwNjA3MV5BMl5BanBnXkFtZTcwNzE2NTI2OQ@@._V1_SX300.jpg
+47,Batman: Arkham Knight,2015,tt3554580,game,https://m.media-amazon.com/images/M/MV5BMTc0MTcxMzQ0Ml5BMl5BanBnXkFtZTgwNDc3MzE0MTE@._V1_SX300.jpg
+48,Batman: Soul of the Dragon,2021,tt12885852,movie,https://m.media-amazon.com/images/M/MV5BYzA4NmVhOTItNzg4MC00YTJjLTk5ZmMtYTJmY2NhM2ZiNmMyXkEyXkFqcGc@._V1_SX300.jpg
+49,Batman: The Doom That Came to Gotham,2023,tt24223450,movie,"https://m.media-amazon.com/images/M/MV5BN2QwMDFkODMtOTAyNC00ZDA4LTk1MzYtMGExOWI3MjdhZDlhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+50,Batman: Return of the Caped Crusaders,2016,tt5973626,movie,https://m.media-amazon.com/images/M/MV5BMzczMWZmYzQtMjQ4Mi00MWNjLTgyNWYtYjE0ZTEyMmZhMzJiXkEyXkFqcGc@._V1_SX300.jpg
+51,Batman Beyond: The Movie,1999,tt0231237,movie,https://m.media-amazon.com/images/M/MV5BMjQ1NmJiNmUtNmNlOC00YTRhLWJlZmUtN2U1ZjgxYjM1N2IzXkEyXkFqcGc@._V1_SX300.jpg
+52,Batman and Superman: Battle of the Super Sons,2022,tt21197740,movie,"https://m.media-amazon.com/images/M/MV5BNGRiMDYzMDQtMWI3ZC00MWEwLWJkYzYtNjQwNzZjODEzNmZiXkEyXkFqcGc@._V1_QL75_UY562_CR2,0,380,562_.jpg"
+53,Batman: Dead End,2003,tt0374526,movie,https://m.media-amazon.com/images/M/MV5BMTkzMDI0MTIyNF5BMl5BanBnXkFtZTYwMTUxMTY3._V1_SX300.jpg
+54,Lego Batman: The Movie - DC Super Heroes Unite,2013,tt2465238,movie,https://m.media-amazon.com/images/M/MV5BNjRjOGU2NzUtMjAwOC00MDI3LThmNmUtNTVkZTQ0MDEyYTc1XkEyXkFqcGdeQXVyMTA5NzUzODM4._V1_SX300.jpg
+55,Beware the Batman,2013–2014,tt2329077,series,https://m.media-amazon.com/images/M/MV5BNGUyOWZiZGItZmYxNC00YWM2LThkNWUtZjBiMDM3MDg3NTg3XkEyXkFqcGc@._V1_SX300.jpg
+56,Merry Little Batman,2023,tt15352516,movie,https://m.media-amazon.com/images/M/MV5BZjUzNDM3ZTItY2EyOS00YzYzLTk3YTAtOWExYzA1MjI3OWExXkEyXkFqcGc@._V1_SX300.jpg
+57,Batman Ninja vs. Yakuza League,2025,tt32508210,movie,"https://m.media-amazon.com/images/M/MV5BMWY0NWZiM2EtNWMzNi00NmY3LTg3Y2ItZDg0YzQ0M2E0NTA4XkEyXkFqcGc@._V1_QL75_UY562_CR9,0,380,562_.jpg"
+58,Batman vs. Two-Face,2017,tt6142314,movie,https://m.media-amazon.com/images/M/MV5BY2MyY2NjNzgtZDAxNi00OWM2LTg3MDUtOTcyOGU1OTdjODNjXkEyXkFqcGdeQXVyMTg2NjYzOA@@._V1_SX300.jpg
+59,Batman: The Long Halloween,2021,tt21445686,movie,https://m.media-amazon.com/images/M/MV5BMmI1MGYwMTEtOWIyMS00OTIyLWI1NDEtMmU2MTk3YTE5ZTE3XkEyXkFqcGc@._V1_SX300.jpg
+60,Batman: The Telltale Series,2016,tt5785964,game,https://m.media-amazon.com/images/M/MV5BMDQ0YTU2ZjgtZmZiZC00YWM2LTljYWYtOWI2NzUzZmIwMzg4XkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg
+61,Batman Unlimited: Animal Instincts,2015,tt4437640,movie,https://m.media-amazon.com/images/M/MV5BMTQ2NTAyNDY0NF5BMl5BanBnXkFtZTgwMjc0Mzc1NTE@._V1_SX300.jpg
+62,Scooby-Doo & Batman: The Brave and the Bold,2018,tt7578566,movie,https://m.media-amazon.com/images/M/MV5BNzg1NGY1YjItMDc5MC00NDkwLTgxZTItNjFlYWM5YzI1ZGNiXkEyXkFqcGdeQXVyMzc1MzYxMjc@._V1_SX300.jpg
+63,Lego Batman: The Videogame,2008,tt1149317,game,https://m.media-amazon.com/images/M/MV5BZjViNzNkNjAtMGZmZi00MDM2LTk1OGUtYjVlNzhjNjIxNDgwXkEyXkFqcGdeQXVyMTAyNzc0MDkz._V1_SX300.jpg
+64,Batman,1943,tt0035665,movie,https://m.media-amazon.com/images/M/MV5BYzQ0ZGViZTUtZmUzMi00YjkwLTg2ZWUtNjk0ZDg0NzE2OTQ3XkEyXkFqcGc@._V1_SX300.jpg
+65,Batman Unlimited: Monster Mayhem,2015,tt4729754,movie,https://m.media-amazon.com/images/M/MV5BZTFlMGFmNWUtNzExNy00ZWY2LWIxN2ItODFlYTg5YzEzYmU3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg
+66,Batman Beyond,2014,tt3643216,movie,https://m.media-amazon.com/images/M/MV5BNWI0ZmFmYjAtZGFkMy00MTMyLTgzZWYtMzM2ZGYwNTJmZDc0XkEyXkFqcGc@._V1_SX300.jpg
+67,Batman & Bill,2017,tt6067832,movie,https://m.media-amazon.com/images/M/MV5BZmZmODk2NDgtY2JhMC00NzRiLWE4YWMtZGQyMDJhYzkxMWU0XkEyXkFqcGc@._V1_SX300.jpg
+68,Batman and Robin,1949,tt0041162,movie,https://m.media-amazon.com/images/M/MV5BMzRlZDY0ZWUtYTY3Yy00ZTQ2LTkzNDgtMTk3ZmExYjBlYjhhXkEyXkFqcGc@._V1_SX300.jpg
+69,Batman: The Dark Knight,2008,tt2098632,movie,https://m.media-amazon.com/images/M/MV5BMzRjOTg1YWYtZTE0NC00MGI5LTlmNDAtMzllM2M1MmQ4N2ViXkEyXkFqcGdeQXVyNjczMzc5NzQ@._V1_SX300.jpg
+70,Lego Batman 2: DC Super Heroes,2012,tt2316821,game,https://m.media-amazon.com/images/M/MV5BNWFmYjczZjgtMDI1Yi00ZTkyLTgzYTQtY2MzOTFlMTMwMDM5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg
+71,Batman: Strange Days,2014,tt3643208,movie,https://m.media-amazon.com/images/M/MV5BZDgxMGM1ZTUtZjljNC00MWUzLTk2ZjYtZmE3ZmFmMzgxZTU2XkEyXkFqcGc@._V1_SX300.jpg
+72,Batman: Death in the Family,2020,tt12794046,movie,https://m.media-amazon.com/images/M/MV5BZWNhNzk2YjItOWZiZC00ZGM0LTg2NjUtYzgwYWQzNjk0NjlmXkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg
+73,Lego DC Comics: Batman Be-Leaguered,2014,tt4189294,movie,https://m.media-amazon.com/images/M/MV5BNmY2MTUzMDUtNWNmYS00MTkwLWI2ZTgtZTNlNTc3Mzk0ZDQ5XkEyXkFqcGc@._V1_SX300.jpg
+74,The Adventures of Batman,1968–1969,tt0062544,series,https://m.media-amazon.com/images/M/MV5BMjU0M2ZjZWEtMjA2YS00MzNkLWI5ZTQtMTlkZDJiM2Q4YjgwXkEyXkFqcGc@._V1_SX300.jpg
+75,Lego DC Batman: Family Matters,2019,tt10327712,movie,https://m.media-amazon.com/images/M/MV5BZGRhNGU2YWYtZWFjZS00MzFlLTkzZGUtODcxNzUxODA1MmQ1XkEyXkFqcGc@._V1_SX300.jpg
+76,Batman Unlimited: Mechs vs. Mutants,2016,tt5896146,movie,https://m.media-amazon.com/images/M/MV5BZWVhZTNmZTQtZTgwYS00YWE5LThjMjktMjFkNjEwYzdkODA2XkEyXkFqcGdeQXVyNDM1NDAyNDk@._V1_SX300.jpg
+77,The New Adventures of Batman,1977–1978,tt0075543,series,https://m.media-amazon.com/images/M/MV5BNzdjMmNmNDAtN2VjMy00NjcyLWJmZTAtOGJhMGE2YThjNjY4XkEyXkFqcGc@._V1_SX300.jpg
+78,Batman: The Dark Knight Returns,2013,tt11060882,movie,https://m.media-amazon.com/images/M/MV5BMjExMGE4NDQtM2MwMS00YzhlLTlkYjgtNmExNzM1ZDBhYzg1XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg
+79,Lego Batman 3: Beyond Gotham,2014,tt3757728,game,https://m.media-amazon.com/images/M/MV5BY2Q5YWY4YTEtYzBmOS00MzE3LTgwOTYtYTBmZTdiNjMzNDY5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_SX300.jpg
+80,Batman vs Joker: Final Joke,2008,tt29010341,movie,https://m.media-amazon.com/images/M/MV5BMTUwYjdhODAtZGQwNC00NWQ2LTk3NWEtMzljY2ZmYzdlMWJhXkEyXkFqcGc@._V1_SX300.jpg
+81,Aztec Batman: Clash of Empires,2025,tt21110654,movie,https://m.media-amazon.com/images/M/MV5BYmMzNWY1NGYtZDI2Mi00MWU2LWI4MGEtMzcyMGNkOWRmZjhjXkEyXkFqcGc@._V1_SX300.jpg
+82,The Death of Batman,2003,tt0377753,movie,https://m.media-amazon.com/images/M/MV5BNjM2OTIyMDE2MF5BMl5BanBnXkFtZTcwMjQzNTM4Ng@@._V1_SX300.jpg
+83,Scooby-Doo Meets Batman,1972,tt13370102,movie,https://m.media-amazon.com/images/M/MV5BNGRkNmFhNDUtNWIxZS00MmMwLWFjNDAtYTc1NTJlZDkzZTI0XkEyXkFqcGdeQXVyNTMyODM3MTg@._V1_SX300.jpg
+84,Batman Unlimited,2015–2016,tt4818178,series,https://m.media-amazon.com/images/M/MV5BYTFlMDllMTMtZjJhZS00MmIxLWJmMzItZDU0MTdlNGUxMTE3XkEyXkFqcGc@._V1_SX300.jpg
+85,"Superman, Spiderman or Batman",2011,tt2084949,movie,https://m.media-amazon.com/images/M/MV5BMjQ4MzcxNDU3N15BMl5BanBnXkFtZTgwOTE1MzMxNzE@._V1_SX300.jpg
+86,Batman Unmasked,2008,tt1265589,movie,https://m.media-amazon.com/images/M/MV5BYzUwZmIwZGMtN2I4Ni00OGZlLTg3MDctMDA4Zjk5NzBlNWNjXkEyXkFqcGc@._V1_SX300.jpg
+87,Batman: Arkham Knight,2015,tt3421844,movie,https://m.media-amazon.com/images/M/MV5BMjEzNDA4MDI0N15BMl5BanBnXkFtZTgwNjk2ODc4MDE@._V1_SX300.jpg
+88,Batman: Arkham Origins - Blackgate,2013,tt2973462,game,https://m.media-amazon.com/images/M/MV5BMTQxMzYxMzE1M15BMl5BanBnXkFtZTgwNjExMzc1MDE@._V1_SX300.jpg
+89,Batman Legends,2006,tt0846671,movie,https://m.media-amazon.com/images/M/MV5BMjBiNjQwMTktNzUwYi00ZjlkLTk3YTctYWFjNzkwZGQwNDg0XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+90,Batman: Black and White,2008–2009,tt1458796,series,https://m.media-amazon.com/images/M/MV5BNTI2MWFhM2EtM2M3YS00OTM1LThkMWYtNzFhODIxZTYxZDJlXkEyXkFqcGc@._V1_SX300.jpg
+91,Batman: Rise of Sin Tzu,2003,tt0395109,game,https://m.media-amazon.com/images/M/MV5BZGQyMmU0ODQtMzNiMS00ZDM2LTkzMzEtNzZkNjQxZmQ1N2VmXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+92,Batman: Vengeance,2001,tt0285446,game,https://m.media-amazon.com/images/M/MV5BOGQ1NzIxNWUtNWUyNi00YzgxLTgyMjUtNzc4OGI3YWZmZWMzXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg
+93,Batman: New Times,2005,tt0482900,movie,https://m.media-amazon.com/images/M/MV5BMTY4Nzc4MTE5OF5BMl5BanBnXkFtZTcwMjcwMzY2Ng@@._V1_SX300.jpg
+94,The Batman Chronicles,2014,tt3196134,movie,https://m.media-amazon.com/images/M/MV5BMTQ4NTY1MjU3NF5BMl5BanBnXkFtZTgwMjY5NzM4MTE@._V1_SX300.jpg
+95,Legends of the Dark Knight: The History of Batman,2005,tt0486410,movie,https://m.media-amazon.com/images/M/MV5BOThhYmY3MjItMWFiZC00ZmRjLTg1NmQtMzdkMDJkYzc0ZDNhXkEyXkFqcGdeQXVyNzAwMjQwMTA@._V1_SX300.jpg
+96,"Batman: Arkham Origins - Cold, Cold Heart",2014,tt3595492,game,https://m.media-amazon.com/images/M/MV5BOTI3ODMyMzAtNjc5YS00MWMyLWFiZGItN2M3MjJjMDk1ZDkxXkEyXkFqcGdeQXVyNTQ2MjM5MTg@._V1_SX300.jpg
+97,Batman Dracula,1964,tt0057875,movie,https://m.media-amazon.com/images/M/MV5BYzhiYTYyMWQtZmNmMy00YzU2LWFkNjctOTA5MmZlNzVjMzI5XkEyXkFqcGdeQXVyNjUzNTMxNDY@._V1_SX300.jpg
+98,Batman Beyond,2015–,tt4178838,series,https://m.media-amazon.com/images/M/MV5BMjA2NTQ5NzkzM15BMl5BanBnXkFtZTgwNjc4NjY5NTE@._V1_SX300.jpg
+99,Batman: The Journey Begins,2005,tt0485593,movie,https://m.media-amazon.com/images/M/MV5BYTc0MjQ1MTctZDNlMy00NTZjLTg1MjMtN2NkMGI2ZDAwYjg3XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+100,Alyas Batman en Robin,1991,tt0121067,movie,https://m.media-amazon.com/images/M/MV5BNjk2YzkyODctZWRhOC00NDFkLThmNjEtZjE0MTY4N2Q1YWE5XkEyXkFqcGdeQXVyNTYyNzQ2MjY@._V1_SX300.jpg
+101,Heart of Batman,2018,tt9555800,movie,https://m.media-amazon.com/images/M/MV5BZGE1OTNmMDAtNWQ2YS00Zjc1LTlkMTMtM2UxYmU0ZDNmOTFlXkEyXkFqcGc@._V1_SX300.jpg
+102,Batman,1989,tt0206583,game,N/A
+103,Batman Tech,2008,tt1265588,movie,https://m.media-amazon.com/images/M/MV5BNWM4ZWQ2ODktNWE5Mi00YmZiLTkzOTMtYzZjMTI1ZjU2MjJiXkEyXkFqcGdeQXVyMTc5MjA5MDQ@._V1_SX300.jpg
+104,Batman Returns,1992,tt0290455,game,N/A
+105,Batman: Ashes to Ashes,2009,tt2089628,movie,https://m.media-amazon.com/images/M/MV5BMjExODYwNjU5OF5BMl5BanBnXkFtZTcwOTEyNzU5Ng@@._V1_SX300.jpg
+106,Batman Is Just Not That Into You,2017,tt6843610,movie,https://m.media-amazon.com/images/M/MV5BNTI0YmM5NmQtNzRjMC00ZWQ4LWFkNTUtYzExNTY5M2MwZTQwXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg
+107,Batman Forever: The Arcade Game,1996,tt0290454,game,https://m.media-amazon.com/images/M/MV5BOGVmYmM3MTktZGU2OC00YzI1LWJlOTUtZDE0NWNkMjA0ODBlXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg
+108,Batman: The Tumbler,2005,tt0485594,movie,https://m.media-amazon.com/images/M/MV5BYzNkNDUzYWUtNzJmNi00Y2I3LWJkOTYtMTljMzMyNDAyZmM0XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+109,Batman Beyond,2000,tt0290453,game,N/A
+110,Batman Begins: Path to Discovery,2005,tt0485689,movie,https://m.media-amazon.com/images/M/MV5BNzRlMzBjYjItMmI0YS00MjJiLThiZmUtNGFkMWRkNzAwNjQxXkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+111,Behind the Mask: The Batman Dead End Story,2015,tt3181178,movie,https://m.media-amazon.com/images/M/MV5BODczOTY0MTg1MV5BMl5BanBnXkFtZTgwODgwNjMyMjE@._V1_SX300.jpg
+112,Batman Beyond: Year One,2024,tt32034208,movie,https://m.media-amazon.com/images/M/MV5BODQwYjM2NmUtMTc3My00YWI4LTgxNzEtNjZlYTc3ZDRlZTUyXkEyXkFqcGc@._V1_SX300.jpg
+113,The Adventures of Batman & Robin,1994,tt3339654,game,https://m.media-amazon.com/images/M/MV5BMTdmYzYzYmYtZWE1Mi00MDdjLTgzNjQtMjM1ZjY1NjRhYzdhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg
+114,Batman Fights Dracula,1967,tt0061386,movie,https://m.media-amazon.com/images/M/MV5BZjk3ODhjZDUtYmQwZS00MzI0LTgzNWItMjdjYmMxZjM4ZGI3XkEyXkFqcGdeQXVyMDgyNjA5MA@@._V1_SX300.jpg
+115,James Batman,1966,tt0361763,movie,https://m.media-amazon.com/images/M/MV5BZDdhMDdiZDAtODYyNC00OGVhLTk0OGItYzkyOTFjNzBkOTgzXkEyXkFqcGc@._V1_SX300.jpg
+116,Fat Man on Batman with Kevin Smith & Marc Bernardin!,2015–,tt5631058,series,https://m.media-amazon.com/images/M/MV5BZjgwZDlmMGUtYTM4NS00NjEyLWE2OTktYWU5ZmNkNDM4ZGFlXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg
+117,Batman: The Long Halloween,2015,tt4705944,series,https://m.media-amazon.com/images/M/MV5BODA2YzI0YTctZGYzOS00NzlhLTlmZDAtNjNhYmU1MzJiMjRhXkEyXkFqcGdeQXVyMjI4OTgyODI@._V1_SX300.jpg
+118,Batman Arkham City: Harley Quinn's Revenge,2012,tt9734584,game,https://m.media-amazon.com/images/M/MV5BOWY0NWNlMjUtYzA3YS00YmUwLWI4ZTMtMTM0NzNmNzczNzE2XkEyXkFqcGdeQXVyOTExNzM4NDM@._V1_SX300.jpg
+119,Batman Revealed,2012,tt2602174,movie,https://m.media-amazon.com/images/M/MV5BMTg5MzYwMTM1MV5BMl5BanBnXkFtZTcwNDg4Mjc5OA@@._V1_SX300.jpg
+120,Riddle Me This: Why Is Batman Forever?,1995,tt0486464,movie,N/A
+121,Batman Adventures: Mad Love,2008,tt1614951,series,https://m.media-amazon.com/images/M/MV5BZThiNzQzOWUtNDM3OC00MmFkLTk5NjAtNDYzYTFhNTc4OTk0XkEyXkFqcGc@._V1_SX300.jpg
+122,Batman: Arkham VR,2016,tt5807562,game,https://m.media-amazon.com/images/M/MV5BNGU2MzZkOWQtM2U3Ny00NDQ0LTk3NjctOTE3Mjk5Njc4Y2Y2XkEyXkFqcGdeQXVyNDYyNDIxNDM@._V1_SX300.jpg
+123,Batman & Robin,1998,tt0284883,game,N/A
+124,Superman vs. Batman: When Heroes Collide,2013,tt2662762,movie,N/A
+125,Batman: Death Wish,2012,tt2197827,movie,https://m.media-amazon.com/images/M/MV5BOTc2ZTEzOGItZmU0YS00Y2Y2LThlNDctNjMxM2ZlNjc3MTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+126,Shadows of the Bat: The Cinematic Saga of the Dark Knight - Batman Unbound,2005,tt0486908,movie,N/A
+127,Lego Batman vs. Superman,2014,tt4955340,movie,https://m.media-amazon.com/images/M/MV5BMTQ0MDkwOTQxNV5BMl5BanBnXkFtZTgwOTExNzM2NjE@._V1_SX300.jpg
+128,Batman: The Enemy Within,2017,tt7170214,game,https://m.media-amazon.com/images/M/MV5BM2Y5NjhlODctMGQ1ZS00Y2I0LTk0YjgtM2Y5MzFkZTBiZTAzXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_SX300.jpg
+129,Batman: Anarchy,2016,tt5516944,movie,https://m.media-amazon.com/images/M/MV5BODM3MmUyYjAtNzk1OS00ZjA1LTk0NmEtY2VkMjkxYjg4YzljXkEyXkFqcGdeQXVyMjE5MjI4NDI@._V1_SX300.jpg
+130,Batman: Abyss,2013–,tt4856116,series,https://m.media-amazon.com/images/M/MV5BN2VlMmI5MDYtMjYyMC00OWM1LTk5ZGItOTE0OWQ1OWFiMWRlXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg
+131,Star Trek Versus Batman,2006,tt1001402,movie,https://m.media-amazon.com/images/M/MV5BN2VkNzk4NzgtMzIyZS00NTNkLTliMjUtODI5MTU3NGI0NGQ3XkEyXkFqcGdeQXVyNjU5MTIxNTM@._V1_SX300.jpg
+132,Batman,2006,tt1487869,movie,N/A
+133,Batman: Dark Tomorrow,2003,tt0291745,game,N/A
+134,Batman: Revenge of the Joker,1992,tt0469030,game,https://m.media-amazon.com/images/M/MV5BMjhjZjA1NTUtZTM0NS00MTQ3LWFjOTktNWYwZGM0MjMxZWJiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+135,The Oath: A Batman Fan Film,2022,tt15460392,movie,https://m.media-amazon.com/images/M/MV5BM2I2YzE2ZWEtY2M3NS00MmEyLTk5MTYtYjE1MjBlNjU2ZmM4XkEyXkFqcGc@._V1_SX300.jpg
+136,Batman: The Brave and the Bold - The Videogame,2010,tt1613073,game,https://m.media-amazon.com/images/M/MV5BZGJlODUzNzQtMGY4Ny00ZjU0LThjZGUtMDg5ZTUyMzExYmE2XkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+137,Batman & Jesus,2017,tt5070262,movie,https://m.media-amazon.com/images/M/MV5BMWNhZGQwNDYtNGZkNC00NzkxLTk2MDYtMzZkMTAyZjAwMDQyXkEyXkFqcGdeQXVyMzgwODQ4Nw@@._V1_SX300.jpg
+138,Dan Harmon's Batman,2002,tt2887006,movie,https://m.media-amazon.com/images/M/MV5BM2ZlZWU4OWMtZTgzOS00NmI3LTg0MTctYzAwMzFjNWRjNDBlXkEyXkFqcGdeQXVyMzAzODY0NzE@._V1_SX300.jpg
+139,Batman: Two Face's Revenge,2013,tt2322377,movie,https://m.media-amazon.com/images/M/MV5BMzI2MzU4NDY2OV5BMl5BanBnXkFtZTgwOTA1OTExMjE@._V1_SX300.jpg
+140,DC High Volume: Batman,2025,tt36858401,movie,"https://m.media-amazon.com/images/M/MV5BZWNmZmU5YWUtOWIxMS00YWFhLTk3MzktZTBiODk2NTZmYjI0XkEyXkFqcGc@._V1_QL75_UX380_CR0,11,380,380_.jpg"
+141,Batman and Me,2020,tt12736322,movie,https://m.media-amazon.com/images/M/MV5BMWU5NDUxODgtZjMyMS00NDA5LWI3YzUtMGIyNjY2YTRiOTg2XkEyXkFqcGc@._V1_SX300.jpg
+142,Batman Begins: Behind the Mask,2005,tt1074939,movie,https://m.media-amazon.com/images/M/MV5BOTA5ZmExMDQtMWE0NC00NDA2LWEwNWQtZWJhNjY0MjYwNmY3XkEyXkFqcGc@._V1_SX300.jpg
+143,"Batman and Me: A Devotion to Destiny, the Bob Kane Story",2008,tt1781773,movie,N/A
+144,Batman: The Owl's Hollow,2025,tt41157268,movie,"https://m.media-amazon.com/images/M/MV5BNjBiZGUyYWYtNjY1MC00ZmIwLTgzOTktYjdkNWQxYjRjYWIyXkEyXkFqcGc@._V1_QL75_UY562_CR157,0,380,562_.jpg"
+145,Batman V Arrow,2016,tt5479456,movie,https://m.media-amazon.com/images/M/MV5BY2UzYzQwNzctMzc2MC00MDk2LTljZjgtMGE3NDdiYmY5MzFiXkEyXkFqcGdeQXVyNDk4MzA4Mjk@._V1_SX300.jpg
+146,Beyond Batman: From Jack to the Joker,2005,tt1006834,movie,https://m.media-amazon.com/images/M/MV5BNzA4ZjZkODYtM2Y4NS00NDBjLWE5NjMtYzg2MzUwYjkzOTFjXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+147,Batman and Robin,1964,tt3959414,movie,https://m.media-amazon.com/images/M/MV5BYjJmMDdjNTktYzA4OS00MGFkLWE2YTQtNmZlZGEwYTc2YTllXkEyXkFqcGc@._V1_SX300.jpg
+148,"The Lego Batman, Spider-Man, & Superman Movie",2010,tt5608070,movie,https://m.media-amazon.com/images/M/MV5BNjJlMWM4YzEtZjVjOC00M2NhLWJkYTItOTk0NWI1MTM0OTE4XkEyXkFqcGc@._V1_SX300.jpg
+149,"Batman Unlimited: Animal Instincts, Penguin: High Society Criminal",2014,tt4906622,movie,https://m.media-amazon.com/images/M/MV5BNmVmOWRhNTYtZjYyNS00ZTU5LTkyNzUtYjZjZmQyMDAwYzdkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX300.jpg
+150,The Batman Shootings,2012,tt2327888,movie,https://m.media-amazon.com/images/M/MV5BZTNkZmE3ZWYtNDc0Ni00MjQwLTlhNWItNWJkZDZhMzRlZGYzXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg
+151,Bane After Batman with Chris Kattan,2012,tt2326014,movie,https://m.media-amazon.com/images/M/MV5BOTE4NzU0NjI1Ml5BMl5BanBnXkFtZTgwOTE2MDY2MDI@._V1_SX300.jpg
+152,Beyond Batman: Designing the Batsuit,2005,tt1006833,movie,N/A
+153,Gay Batman,2014,tt3815998,movie,https://m.media-amazon.com/images/M/MV5BMjA3OTA0OTUxOF5BMl5BanBnXkFtZTgwNTc0MzkwMjE@._V1_SX300.jpg
+154,Superman Meets Batman,2016,tt5241796,movie,https://m.media-amazon.com/images/M/MV5BMTgwZTQ2NGMtYmFkMC00ZWRmLWE2Y2YtOGMyYTcyMzVhNzgzXkEyXkFqcGdeQXVyMjU3NTcwNTI@._V1_SX300.jpg
+155,Batman Vs Superman Redub,2021,tt27814934,movie,https://m.media-amazon.com/images/M/MV5BNDQ5NTNlNjQtYTYxMi00NTE0LWEzMzQtMmM5NjNkNTVjMjI1XkEyXkFqcGc@._V1_SX300.jpg
+156,Batman: Gotham City Racer,2001,tt0281642,game,https://m.media-amazon.com/images/M/MV5BZjk2OGQ0YWYtMTBjNC00NTRiLWIxMDAtZDdiOTgyYjgwNzZiXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg
+157,Beyond Batman: Visualizing Gotham - The Production Design of Batman,2005,tt1006835,movie,N/A
+158,Beyond Batman: Building the Batmobile,2005,tt1006832,movie,N/A
+159,Lego Batman: Jokers Team-Up!,2011,tt5608178,movie,https://m.media-amazon.com/images/M/MV5BMzk4YzY1NTYtN2Q2Ni00MDU0LTg4YzAtNzFlNzMyMzMzYTE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+160,Batman: The Caped Crusader,1988,tt0473297,game,N/A
+161,The Amazing Adventures of Little Batman,2007,tt1191900,movie,https://m.media-amazon.com/images/M/MV5BODI0MzgwNzA3MV5BMl5BanBnXkFtZTcwMzc0ODU2MQ@@._V1_SX300.jpg
+162,Batman: The Legacy Continues,2004,tt1508951,movie,N/A
+163,Batman Heroes: Batman,2005,tt1297266,movie,N/A
+164,Batman Villains: The Joker,2005,tt1297268,movie,https://m.media-amazon.com/images/M/MV5BNzUyOTcwNzYtZGM5MS00NzYxLWE3N2MtMjBjZDA4MjY2M2FiXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+165,"How to, Batman!",2009–,tt1852413,series,https://m.media-amazon.com/images/M/MV5BMjI2NTE3NzA4MV5BMl5BanBnXkFtZTcwNjM5ODI3NA@@._V1_SX300.jpg
+166,Beyond Batman: Assembling the Arctic Army,2005,tt1006831,movie,https://m.media-amazon.com/images/M/MV5BNGMyZTllYzEtMGVhZC00ZTc2LTg1M2EtMmJlMTRhNjNjYTVmXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+167,The Lego Batman & Superman Movie,2009,tt5607974,movie,https://m.media-amazon.com/images/M/MV5BZDY3NjhiZDItODg1NC00OTAxLThiMjUtNDRkMTkwZjI1NjQ3XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+168,Batman: Dante,2016,tt5845956,movie,https://m.media-amazon.com/images/M/MV5BYjVkODhlNjUtNTY1MC00Yjg0LTkyOTUtZGJlOWQ1Yzg1Y2ZiXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg
+169,"Beyond Batman: Sleek, Sexy and Sinister - The Costumes of Batman Returns",2005,tt1006839,movie,https://m.media-amazon.com/images/M/MV5BOTZhOTUxODUtZWY1MS00ODllLTlmMGYtNjgxMGFmMTVmZDBmXkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+170,"Beyond Batman: Bats, Mattes & Dark Nights - The Visual FX of Batman Returns",2005,tt1018682,movie,N/A
+171,Beyond Batman: Gotham City Revisited - The Production Design of Batman Returns,2005,tt1006836,movie,N/A
+172,Beyond Batman: Nocturnal Overtures - The Music of Batman,2005,tt1006838,movie,https://m.media-amazon.com/images/M/MV5BMTc3YzM4NmEtNzhiZi00ZjQyLWJiOWYtOWI0NWI2Y2IwOWUxXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+173,Lego Batman Rises,2019,tt10560572,movie,https://m.media-amazon.com/images/M/MV5BZWUxYjUwMDctOTFhNy00MjgwLTg2MjEtYmFiMWE4MDY5MzdmXkEyXkFqcGdeQXVyMTE5NTU4OTEx._V1_SX300.jpg
+174,Batman Ninja: Made in Japan,2018,tt10058878,movie,https://m.media-amazon.com/images/M/MV5BMjJlMmI5YzAtNzY4YS00YzMzLTk0ZDAtMjUwMWU0OTdhYTkzXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+175,The Lego Batman Collection,2007–,tt13834136,series,https://m.media-amazon.com/images/M/MV5BMGUzNGQ5MzAtNWMwMy00Y2VjLWFjNDEtNzdhYmE3YTFhOGVkXkEyXkFqcGdeQXVyMTM3Njg3Nzc2._V1_SX300.jpg
+176,"Fight! Batman, Fight!",1973,tt1168705,movie,https://m.media-amazon.com/images/M/MV5BZGMyYzM3YWYtNGRiYi00MzgxLWJlOWQtYjEyNGU5YWZjODAyXkEyXkFqcGdeQXVyMjQxMDc1NDc@._V1_SX300.jpg
+177,Beyond Batman: Making Up the Penguin,2005,tt1018687,movie,N/A
+178,Batman Evolution,2014,tt3532246,movie,N/A
+179,LEGO Batman vs. Superman 2: Dawn of Just Desserts,2015,tt4984898,movie,https://m.media-amazon.com/images/M/MV5BODlmNDE4OTQtZGMzOS00Y2U2LWE3MDYtMWVmNDliNGFkNTgxXkEyXkFqcGdeQXVyMTUyMjc4OQ@@._V1_SX300.jpg
+180,Beyond Batman: Dressed to Thrill - The Costumes of 'Batman & Robin',2005,tt1018683,movie,N/A
+181,Beyond Batman: Inside the Elfman Studio - The Music of Batman Returns,2005,tt1006837,movie,N/A
+182,Batman Returns Villains: Catwoman,2005,tt1654001,movie,https://m.media-amazon.com/images/M/MV5BYThjMGZhOTEtNTZiYy00NDE0LTk2NWQtZTZlMjU3ZTVkYmY3XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+183,Gay Batman Forever,2015,tt5905490,movie,https://m.media-amazon.com/images/M/MV5BYzc3NDBiOTctZTlkMi00Y2Y2LTlmNmQtY2MxY2UyYTgyNTIyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg
+184,OnStar: Batman,2000–2002,tt11509646,series,https://m.media-amazon.com/images/M/MV5BMzllNTQxYTItOWVmMC00NzVlLWEzMWEtOWI5OWFkMGZjYWVjXkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg
+185,Batman,1989,tt11568382,game,https://m.media-amazon.com/images/M/MV5BNjEwMGJkMDktY2FiZC00MTUzLWEwMjUtNWFkMzQzYWIxMzM0XkEyXkFqcGdeQXVyMDEyNTAwMw@@._V1_SX300.jpg
+186,A First Look at Batman: Under the Red Hood,2010,tt1640102,movie,N/A
+187,Alyas Batman at Robin,1965,tt1228961,movie,https://m.media-amazon.com/images/M/MV5BM2Y4Y2UzYTUtYWMwYS00ZDA0LThlMjEtOTkyNjVkYzBiNTI5XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+188,Batman: The Crimson Cowl,2026,tt41840739,movie,"https://m.media-amazon.com/images/M/MV5BMDM3MjAwNDEtMjNlOS00ZTU2LWIzYmEtYzhiMzlmMGZkZTA3XkEyXkFqcGc@._V1_QL75_UY562_CR40,0,380,562_.jpg"
+189,Bond V Batman: Age of Vengeance,2015,tt12622400,movie,https://m.media-amazon.com/images/M/MV5BMmM3YjY2OGUtYTAwMS00YWFiLTk4ZjUtZDEyMDc5MmRjYWYwXkEyXkFqcGdeQXVyNTg4OTQ0NzQ@._V1_SX300.jpg
+190,The Lego Batman and Spider-Man Movie,2022,tt11579056,movie,https://m.media-amazon.com/images/M/MV5BNTY0NTQ3OGEtODMzNi00N2I1LWJlOGYtYjQ2MDQzNzA5NjMxXkEyXkFqcGdeQXVyMTEyMTg5NTYz._V1_SX300.jpg
+191,Rifftrax: Batman v. Superman,2017,tt10339232,movie,https://m.media-amazon.com/images/M/MV5BNTQ0NGU5OGMtMDE3Ni00ZGEzLThkYmEtODA2OWIxZWY1YTU1XkEyXkFqcGdeQXVyNzkwNTk1NDM@._V1_SX300.jpg
+192,The Death of Batman,2021,tt14802300,movie,https://m.media-amazon.com/images/M/MV5BMTY4NjM0NTAtM2RlYy00OWFjLWE2YjYtZGNjOWQxNjgzODliXkEyXkFqcGdeQXVyNDg5NDY5NTA@._V1_SX300.jpg
+193,Beyond Batman: Freeze Frame - The Visual FX of 'Batman & Robin',2005,tt1018684,movie,N/A
+194,Batman: Legend of Arkham City,2012,tt2495764,movie,N/A
+195,Batman Beyond: Return of the Joker,2019,tt11332628,movie,https://m.media-amazon.com/images/M/MV5BN2YyMzUzZTctNDlhNi00OWIzLTkxNWItMGM4NjEzNDc2YmYzXkEyXkFqcGdeQXVyMjI2ODkzODY@._V1_SX300.jpg
+196,Lego Batman: Nightwing's Return,2010,tt5608310,movie,https://m.media-amazon.com/images/M/MV5BYjZjZjZjY2ItOThkYi00ZTNlLTkzNDUtZDcwNjJiNTg2ZWE0XkEyXkFqcGdeQXVyNTY2MzQ3MDE@._V1_SX300.jpg
+197,Batman v Superman,2013,tt6130880,movie,N/A
+198,Beyond Batman: 'Those Wonderful Toys' - The Props & Gadgets of Batman,2005,tt1297267,movie,N/A
+199,Beyond Batman: Maximum Overdrive - The Vehicles of 'Batman & Robin',2005,tt1018685,movie,N/A
+200,Batman Beyond: Zero,2012,tt2950250,movie,https://m.media-amazon.com/images/M/MV5BMmUzZDM5NzEtYzEzOS00ZmQyLTg0NDItMTQzZmZlNDM5NWRlXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+201,Batman Date with Destiny,2009,tt3467120,movie,https://m.media-amazon.com/images/M/MV5BMjAzMDYzNDc0Nl5BMl5BanBnXkFtZTgwOTUwMzQ1MjE@._V1_SX300.jpg
+202,Bond P Batman,2016,tt13428368,movie,N/A
+203,"The Trinity: Wonder Woman, Superman and Batman",2017,tt7413802,movie,https://m.media-amazon.com/images/M/MV5BMWJhYjVlNjItZGNiMy00N2Y0LTlkNjEtNDAxYTQzZWU2Mzk3XkEyXkFqcGdeQXVyMjU4MDc0NzY@._V1_SX300.jpg
+204,Batman Beyond Angel of Death,2008,tt3524416,movie,https://m.media-amazon.com/images/M/MV5BYWIyMjQ2MTUtMGM5Yi00ZWIyLWI3MjUtODU2M2VlNDc4YWI3XkEyXkFqcGdeQXVyMTA5NzI2MQ@@._V1_SX300.jpg
+205,Batman Beyond: Rising Knight,2014,tt5870174,movie,https://m.media-amazon.com/images/M/MV5BYWE1OTllYjYtM2NiNi00ZWMxLWI3M2UtZjUzNTUxM2QyMDI5XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg
+206,Batman: Chaos in Gotham,2001,tt0291744,game,N/A
+207,Batman Heroes: Commissioner Gordon,2005,tt1636735,movie,N/A
+208,Batman Returns Villains: The Penguin,2005,tt1654003,movie,N/A
+209,Batman: Secrets of the Caped Crusader,1992,tt1959343,movie,https://m.media-amazon.com/images/M/MV5BZGY5YTkzYjgtMjgzNy00Y2QxLThiYjItNmY5MjI0YjAzN2E3XkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SX300.jpg
+210,Batman and Robin and the Other Super Heroes,1989,tt2181896,movie,https://m.media-amazon.com/images/M/MV5BMzMyY2YwMDctZGQ2MS00MmYwLWJlOTctYTdkNmJkNjViYjc2XkEyXkFqcGdeQXVyNDU5NjAxMTg@._V1_SX300.jpg
+211,Hanging with Batman,2014,tt4906600,movie,https://m.media-amazon.com/images/M/MV5BOWEzZjljMDAtMWJiNS00ZGE2LWE4MjQtY2JkN2Q5NWJlOTg2XkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg
+212,Batman Beyond: Forgotten Memories,2007,tt3186140,movie,https://m.media-amazon.com/images/M/MV5BMGUyYzRhOTYtZGY1OC00ODNjLWJkNzktYWYzZDUyMzhkYmE5XkEyXkFqcGdeQXVyNDU5Nzc4MTg@._V1_SX300.jpg
+213,Batman Beyond Path of Destruction,2006,tt3564180,movie,N/A
+214,Gay Batman Returns,2014,tt3816018,movie,https://m.media-amazon.com/images/M/MV5BYmE2OGJjMDAtOTJkMy00YWI3LTgxN2QtNTFlNGFkMDZhNGUyXkEyXkFqcGdeQXVyMjIyNjc3OTI@._V1_SX300.jpg
+215,Batman: Austerity & Rage,2016,tt5916948,movie,N/A
+216,Batman: Knightmare,2020,tt12374438,movie,https://m.media-amazon.com/images/M/MV5BZTQ0NTg1MTAtOTIyNi00MjMzLWFlYjktYTc3MWVkODIzZGUxXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg
+217,Batman: Broken Promise,2022,tt29266141,movie,https://m.media-amazon.com/images/M/MV5BZWY5NGJkZGItZWY0MS00MWM1LTliNjAtZDM4M2Q4NzVmNjc3XkEyXkFqcGdeQXVyNzM3NjUzODU@._V1_SX300.jpg
+218,Batman: Terror of Arkham,2019,tt6230896,movie,https://m.media-amazon.com/images/M/MV5BYTZhMGRhMmEtNGJiZS00NzI0LWI0OWEtM2E3YmQ4MDNjM2RjXkEyXkFqcGdeQXVyMTA1NTk4OTAz._V1_SX300.jpg
+219,Batman vs. Predator,2013,tt3162198,movie,N/A
+220,Um Conto De Batman: Na Psicose Do Ventríloquo,2014,tt3470610,movie,https://m.media-amazon.com/images/M/MV5BOTAyMjgxMTYzMl5BMl5BanBnXkFtZTgwNzY1NDUwMjE@._V1_SX300.jpg
+221,A First Look at Superman/Batman: Apocalypse,2010,tt1706667,movie,N/A
+222,Batman Heroes: Harvey Dent,2005,tt1636736,movie,N/A
+223,Batman Returns Heroes: Alfred,2005,tt1653999,movie,N/A
+224,Batman Featurette,2001,tt0471583,movie,https://m.media-amazon.com/images/M/MV5BOGRlYTBmMWItYjVhNS00Mjg2LTk2NDQtNTRmNWUzYjkzMmNkXkEyXkFqcGdeQXVyMTQxMjk0Mg@@._V1_SX300.jpg
+225,"Tro, håb og Batman",2001,tt0287771,movie,N/A
+226,Batman Year One: A Conversation with DC Comics,2011,tt2098631,movie,https://m.media-amazon.com/images/M/MV5BNTM0M2JlMjUtNTcyNi00NTkzLWI5MmQtNmY1MDJmZDExMDhlXkEyXkFqcGdeQXVyNjM2NDIwMzQ@._V1_SX300.jpg
+227,Superman/Batman: When Clark Met Bruce,2012,tt2426508,movie,N/A
+228,Batman: The Shattered Cowl,2016,tt4221290,movie,https://m.media-amazon.com/images/M/MV5BM2NmZjZiNDItZTRmNC00OWU2LWFiNjYtNTVjMWIwNDA0YTQzXkEyXkFqcGdeQXVyNDYyNjUxNTc@._V1_SX300.jpg
+229,The Lego Batman & Spider-Man Movie,2009,tt5608002,movie,N/A
+230,The Lego Batman & Spider-Man Movie 2,2009,tt5608034,movie,N/A
+231,Batman,1991,tt2509372,game,N/A
+232,Batman vs. Catwoman,2013,tt3024878,movie,N/A
+233,Batman Returns Villains: Max Shreck,2005,tt1654002,movie,N/A
+234,A Test of Minds: The Psychology of Superman and Batman,2009,tt1542990,movie,N/A
+235,Batman Villains: Bob the Goon,2005,tt1630033,movie,https://m.media-amazon.com/images/M/MV5BNmU3YWE4ZmYtNGYxZi00MmQ2LWI3NDgtZDg1N2UxN2ZiM2IwXkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+236,Batman Heroes: Alexander Knox,2005,tt1636734,movie,https://m.media-amazon.com/images/M/MV5BMTk2MTM4ZDYtYTgxYS00NzkxLTk0OTAtZWM5OWVmZjNjYWE2XkEyXkFqcGdeQXVyMjQ0NzE0MQ@@._V1_SX300.jpg
+237,B@ (Batman Parody Film),2016,tt5875708,movie,https://m.media-amazon.com/images/M/MV5BNjdhZjM0NGYtMjgxOC00NTkxLTg1ZTEtMjZhNDhjYjZjMjFlXkEyXkFqcGdeQXVyMjQ5MDAyNzc@._V1_SX300.jpg
+238,Batman Forever Heroes: Dr. Chase Meridian,2005,tt5524958,movie,https://m.media-amazon.com/images/M/MV5BOTdiNDcyYTUtMmYwZC00NDk4LTg5YjgtYzRiODRkMmE3NTRjXkEyXkFqcGdeQXVyMTM5NzI3OTA@._V1_SX300.jpg
+239,Epic dinosaur and Batman fight,2023,tt26353328,movie,https://m.media-amazon.com/images/M/MV5BMDZmZDViZTItZTU3Yy00NDQ0LTliZTAtNzcxOTY4Zjg2NDlkXkEyXkFqcGc@._V1_SX300.jpg
+240,Batman: Master of Fear,2017,tt6084014,movie,https://m.media-amazon.com/images/M/MV5BMzJkZjU5ZDItNmEwMi00NGRiLWIyMDAtOTFiOGY0NmY0YTdhXkEyXkFqcGdeQXVyNjkwMTY4MDI@._V1_SX300.jpg
+241,The Lego Batman & Santa Team-Up!,2012,tt5660802,movie,N/A
+242,Batman: The Birth of the Modern Blockbuster,2014,tt4355656,movie,https://m.media-amazon.com/images/M/MV5BNzE5NDVkYmEtMTM4Mi00MmRiLWIwZjUtZmRmNWI3NGU4ODFlXkEyXkFqcGdeQXVyNDMxMTc5OTE@._V1_SX300.jpg
+243,Batman Heroes: Vicki Vale,2005,tt1636737,movie,N/A
+244,Batman Rebuilt,2008,tt1391658,movie,N/A
+245,Batman & Robin: Pillow Talk,2008,tt1773298,movie,https://m.media-amazon.com/images/M/MV5BMTk2ODgwNDgyMF5BMl5BanBnXkFtZTcwMzg0OTAxNA@@._V1_SX300.jpg
+246,Batman: The Line,2011,tt1979188,movie,https://m.media-amazon.com/images/M/MV5BNzk5ZjdjNDYtZTNiMi00OWQ1LWJmZDEtOTJlZGE5YmQzMjFkXkEyXkFqcGc@._V1_SX300.jpg
+247,Batman: Night's End,2011,tt2275537,movie,https://m.media-amazon.com/images/M/MV5BMDE1ZjM3OWMtODFkZS00MzU3LTgzZWEtMmQ4YWE3NzEzOTI1XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+248,Batman: Behind the Mystery,2003,tt1670222,movie,N/A
+249,Batman vs. Superman Hawaii,2016,tt6051984,movie,https://m.media-amazon.com/images/M/MV5BM2U1NDhhNzMtM2UyMy00YzBlLWE5YjAtM2IyMDg4N2ZjNTc3XkEyXkFqcGdeQXVyMjMyMTA4MTc@._V1_SX300.jpg
+250,Batman: The Death of Robin,2019,tt11347762,movie,https://m.media-amazon.com/images/M/MV5BZjgwMjVmNmYtNDhkOC00ZmY5LWE3YTQtYzViYmEyYTU2NmYwXkEyXkFqcGdeQXVyMTA1NzczNjI4._V1_SX300.jpg
+251,The Batman: Bane is Enter,2022,tt32098126,movie,https://m.media-amazon.com/images/M/MV5BYjM4NmRiMzctMDdhMi00ZTgwLTk0ZjItZDBhNWYyNTIxZjRjXkEyXkFqcGc@._V1_SX300.jpg
+252,"Lego Star Wars, Batman and Indiana Jones Movie",2009,tt6077590,movie,N/A
+253,The Adventures of Batman & Robin Activity Center,1996,tt6358804,game,https://m.media-amazon.com/images/M/MV5BYTNmMTlhMWYtOTE3My00YjRjLWE1MzgtZGJhZTZkNTJiNGIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzQ1NjE0NTk@._V1_SX300.jpg
+254,Batman: The Abridgimated One-Shot,2011,tt1971329,movie,N/A
+255,Batman: Dark Flight,2015,tt5014758,movie,https://m.media-amazon.com/images/M/MV5BNGUzYzkyYzEtYTUyYy00NGM0LWEzZGMtNzg4Y2QxZWM2YWQ3XkEyXkFqcGdeQXVyMDQzODc1OA@@._V1_SX300.jpg
+256,Batman Retired,2012,tt2483560,movie,N/A
+257,Batman: Crusader,2014,tt3848506,movie,https://m.media-amazon.com/images/M/MV5BNWUxNDYzYTItMGUzZS00ZjgyLWFhYjctZjYwNjM5NjI2ODY4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_SX300.jpg
+258,Batman: The Bloody Valentine,2015,tt4459324,movie,https://m.media-amazon.com/images/M/MV5BNjNkMTRhMGMtNTVkMS00MDdiLTg2MTctNTMyZjA0ZmI5YzRmXkEyXkFqcGdeQXVyMTAwNDM3OA@@._V1_SX300.jpg
+259,Batman vs Superman: Artist Shahla Yma - Fangirls DOTRT,2013,tt4999368,movie,N/A
+260,Batman Untold,2010,tt4724924,movie,https://m.media-amazon.com/images/M/MV5BZjRiZDM0NzAtYzg1Yy00ZWM3LThmYmQtNzA2MTVlMzk3MzNkXkEyXkFqcGdeQXVyMjI2MTgxNDU@._V1_SX300.jpg
+261,Batman at the Checkpoint,2012,tt2241031,movie,https://m.media-amazon.com/images/M/MV5BMGY5YzJkYzktY2Y2Ny00Y2NmLTkyZjUtMjAyY2MzMTE2Y2Y1XkEyXkFqcGdeQXVyODc1NjA2NA@@._V1_SX300.jpg
+262,Batman Returns Heroes: Batman,2005,tt1654000,movie,N/A
+263,"I Hate Living with You, Batman",2003,tt0492886,movie,N/A
+264,Lego Batman Retires,2017,tt6854152,movie,N/A
+265,The Worst Batman Fanfilm Ever... Period,2016,tt10461340,movie,N/A
+266,One Brick at a Time: Making the Lego Batman Movie,2017,tt7504700,movie,https://m.media-amazon.com/images/M/MV5BYjQ2NTY2NmEtOTcxMi00YjE5LTgyYjgtYzAzZmZiN2YwYjY2XkEyXkFqcGc@._V1_SX300.jpg
+267,Thomas/Batman,2020,tt13062420,movie,https://m.media-amazon.com/images/M/MV5BZDVhMTZkNjMtMTY4ZS00MzJmLTk2NWItZDljY2Y1Mzk2OThmXkEyXkFqcGdeQXVyMTg1MTc3MQ@@._V1_SX300.jpg
+268,Why Batman Can't to Laugh?,2023,tt31973405,movie,https://m.media-amazon.com/images/M/MV5BNDMyMzA5OGQtNzY1Ny00OGNjLTg4NmYtMmEyNTVjMTZlOThiXkEyXkFqcGc@._V1_SX300.jpg
+269,Batman,1986,tt11171552,game,https://m.media-amazon.com/images/M/MV5BZDk0NDA2NWMtYWQ0Yy00MTBjLTlmZDItYTQyMzc5NDcyNjlmXkEyXkFqcGdeQXVyMTcwNDU4MzU@._V1_SX300.jpg
+270,Batman Begins: Reflections on Writing,2005,tt6010256,movie,https://m.media-amazon.com/images/M/MV5BY2Y2N2EzM2YtZjdhNC00MTYwLWJiNDgtMDVlZDZjMDRlMDY1XkEyXkFqcGdeQXVyMTY4MjQ0NzU@._V1_SX300.jpg
+271,Batman Forever Villains: The Riddler,2005,tt5524962,movie,N/A
+272,The Making of 'Batman: Dead End',2003,tt5457384,movie,N/A
+273,Holy Memorabilia Batman!,2014,tt4245626,movie,https://m.media-amazon.com/images/M/MV5BNTUyNmZkNmMtYWJlZC00YjFkLWJlZmUtODg4M2UzODkyOTY1XkEyXkFqcGdeQXVyNjUzNjY0NTE@._V1_SX300.jpg
+274,Batman: Face to Face,2013,tt3442188,movie,N/A
+275,Batman Forever Heroes: Robin,2005,tt5524956,movie,N/A
+276,The Death of Batman,2016,tt5867428,movie,https://m.media-amazon.com/images/M/MV5BYjMxYTUwODQtMzczMi00MmFlLTlkMmEtNjZlY2FkZmI3NDdhXkEyXkFqcGdeQXVyMzAyNjQ5NzY@._V1_SX300.jpg
+277,Batman: Two Faces Are Better Than One,2006,tt4733750,movie,N/A
+278,Batman: Arkham Underworld,2016,tt5913906,game,https://m.media-amazon.com/images/M/MV5BZjJjNTVhNDEtMzI0Ny00NDBjLTg1MWQtZjJlYTZjZGNlNmYxXkEyXkFqcGdeQXVyNTk5Nzg0MDE@._V1_SX300.jpg
+279,Batman: Patient Zero,2016,tt6212746,movie,https://m.media-amazon.com/images/M/MV5BZTVkZjAxODItMWZiZS00ZDZiLTkxMTYtMDc1MjM0ZGQ0YmQwXkEyXkFqcGdeQXVyNTQ4MzA4NDQ@._V1_SX300.jpg
+280,The Batman: Bad Joke,2019,tt9447688,movie,https://m.media-amazon.com/images/M/MV5BMmMwNzk2ZjktZjA5OS00ZmQ0LWI5OWItNzMyMDA2ZTMzZDQ0XkEyXkFqcGdeQXVyOTY0ODI4MDA@._V1_SX300.jpg
+281,"Batman Arkham Origins: Cold, Cold Heart",2014,tt8883642,game,https://m.media-amazon.com/images/M/MV5BNWE5ZmQxMzMtYzAxNC00NzU2LWIwYzktMmZiMGU1OWFkYmRjXkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg
+282,Batman and the Pizza Time part 1,2017,tt7959470,movie,https://m.media-amazon.com/images/M/MV5BZGM1NTdiZjEtMjU3NS00Mjk0LWI4NTctNmU3ODFmY2RhNzVlXkEyXkFqcGdeQXVyODQ3NTg5ODc@._V1_SX300.jpg
+283,Batman Begins Stunts,2005,tt6010270,movie,N/A
+284,Lego Batman Returns,2017,tt6854176,movie,N/A
+285,Batman Hangover,2013,tt3060324,movie,N/A
+286,The Batman,2012,tt2757542,movie,N/A
+287,GTTV Presents Batman: Arkham Asylum Launched!,2009,tt1509122,movie,N/A
+288,Batman: The Dark Truth,2011,tt2340262,movie,https://m.media-amazon.com/images/M/MV5BMTgwMzc5OTQ3OV5BMl5BanBnXkFtZTgwMTczNTA3NzE@._V1_SX300.jpg
+289,Heart of Vengeance: Returning Batman to His Roots,2011,tt2098701,movie,N/A
+290,Batman vs Batman,2012,tt2338396,movie,N/A
+291,Guarding the Balance: Batman and the JLA,2012,tt2279003,movie,https://m.media-amazon.com/images/M/MV5BNmEwNjhhZWUtMTI0MC00NDlhLTgxYTAtNjkyYTMxZmQzNDk1XkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+292,Batman: The Fire Rises,2013,tt2815320,movie,N/A
+293,Batman Vendetta,2012,tt2455550,movie,https://m.media-amazon.com/images/M/MV5BODU0NjQ3MGEtMDQ4Ny00ZmZiLWFlYWUtMWYwZDgzNTFjOTkwXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+294,Beyond Batman: Out of the Shadows - The Production Design of 'Batman Forever',2005,tt5186788,movie,N/A
+295,Beyond Batman: The Many Faces of Gotham City,2005,tt5186838,movie,N/A
+296,Batman & Robin Villains: Mr. Freeze,2005,tt5524988,movie,N/A
+297,Batman: Arkham City - Inside Rocksteady,2012,tt30406767,movie,"https://m.media-amazon.com/images/M/MV5BOTNhNGY0YjAtNTIyNy00YmY4LWIwNDYtZTBlMDFlMjVlMzA5XkEyXkFqcGc@._V1_QL75_UY562_CR308,0,380,562_.jpg"
+298,Batman: Gotham by Gaslight - Fan Film,2024,tt33812159,movie,https://m.media-amazon.com/images/M/MV5BNGExOWE3NjQtYmNiZC00YjgxLWIyMjEtMTI5ODQyNGQyMTdlXkEyXkFqcGc@._V1_SX300.jpg
+299,Digital Batman,2005,tt6010262,movie,N/A
+300,What If Tommy Wiseau Directed Batman?,2014,tt6670090,movie,https://m.media-amazon.com/images/M/MV5BZjZjOGQyMjEtMDUzMS00ZTNkLWJhY2UtODRhY2Q2NWU1ODNjXkEyXkFqcGdeQXVyNjc1NDY3NzU@._V1_SX300.jpg
+301,Batman & Robin Villains: Poison Ivy,2005,tt5524990,movie,N/A
+302,Batman Forever Villains: Two-Face,2005,tt5524966,movie,N/A
+303,Beyond Batman: Knight Moves - The Stunts of 'Batman Forever',2005,tt5186872,movie,N/A
+304,Batman Delivrance,2011,tt2546522,movie,https://m.media-amazon.com/images/M/MV5BOTNlMjAxYzAtODk0Zi00M2FjLTk3MDItZTFkODNlZmRmNTY4XkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+305,Crossing Over: Batman Meets Dexter,2015,tt3486834,movie,https://m.media-amazon.com/images/M/MV5BYTlmYmFlMTUtNWVlNS00YTJhLTkxMDctZTI3ZWMwNWQyMmIzXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+306,Batman: The Creep Crusader,2013,tt3645538,movie,N/A
+307,Batman the Brave and the Bold: Showtime!,2024,tt32044571,movie,https://m.media-amazon.com/images/M/MV5BZGJjN2NjZTYtMmJjMC00ZTYzLWE3NzAtMzAyNjhiZDcyOWUzXkEyXkFqcGc@._V1_SX300.jpg
+308,"Beyond Batman: Bigger, Bolder, Brighter - The Production Design of 'Batman & Robin'",2005,tt5186618,movie,N/A
+309,Batman Beyond: The Lost Fan Film,2006,tt4807930,movie,N/A
+310,Batman & Robin Heroes: Batman,2005,tt5524972,movie,N/A
+311,Batman by Your Side,2005,tt0489936,movie,N/A
+312,Batman,2013,tt6949852,game,https://m.media-amazon.com/images/M/MV5BYTc2N2E5YjktZGExNy00MTJmLWJiMWUtYjZlZjA5MTQ0MDg3XkEyXkFqcGdeQXVyMjQxNzM0MjI@._V1_SX300.jpg
+313,Batman v. Superman: A Parody of Justice,2017,tt7370494,movie,N/A
+314,Batman Forever,1995,tt11808894,game,https://m.media-amazon.com/images/M/MV5BYjdkNTFiZTQtY2I5YS00ZWI4LWFiZTgtZjk4MzViNjQ2ZGJhXkEyXkFqcGdeQXVyNjMxMTE2Mjg@._V1_SX300.jpg
+315,Gordon: A Batman Fan Film,2023,tt30275071,movie,https://m.media-amazon.com/images/M/MV5BYmI2MjBiYjUtZTJlNS00NmZkLTk3MzgtZDE4NTljNGM4ZmQ5XkEyXkFqcGc@._V1_SX300.jpg
+316,Batman: First Night,2023,tt27590074,movie,https://m.media-amazon.com/images/M/MV5BNmEyYjEzZGItZTZmNS00Y2I4LTkyYzAtMGY2YzQwOTYwZjNhXkEyXkFqcGc@._V1_SX300.jpg
+317,Hell Yeah Batman,2015,tt12948188,movie,N/A
+318,Steve Woodier Jr's Batman: The Movie,2019,tt10356286,movie,https://m.media-amazon.com/images/M/MV5BMWNiZTI2ZTQtNWIxZC00YjIwLWIxY2ItZmI1ZGQ2MzZlOWFjXkEyXkFqcGdeQXVyMjA4NTU2NTM@._V1_SX300.jpg
+319,View-Master Batman Animated VR,2016,tt9811400,game,N/A
+320,Batman: Partners in Peril,1996,tt1064722,game,N/A
+321,Batman & Robin Heroes: Robin,2005,tt5524976,movie,N/A
+322,Batman & Robin Heroes: Batgirl,2005,tt5524986,movie,N/A
+323,Batman & Robin Villains: Bane,2005,tt5524996,movie,N/A
+324,Batman vs. Superman: Spoof,2016,tt5602908,movie,N/A
+325,The Batman Files,2012–,tt2409658,series,N/A
+326,Batman Monsters,2012,tt2495274,movie,N/A
+327,Batman 20 Years On,2009,tt2483270,movie,N/A
+328,Batman: Mini-Figure,2014,tt3508120,movie,N/A
+329,An Interview with Batman,2014,tt3521274,movie,https://m.media-amazon.com/images/M/MV5BZmQ2ODViMWItYWQyMS00N2MwLTg5NWEtYzgyOThjMTg5MjVhXkEyXkFqcGdeQXVyNzU4MjAyMTY@._V1_SX300.jpg
+330,Iron Man vs Batman,2010,tt3426078,movie,N/A
+331,The Batman Auditions,2014,tt3428056,movie,N/A
+332,Chicano Batman en el Retrovisor,2013,tt3377958,movie,N/A
+333,Batman: The Puzzle Master,2015,tt3679964,movie,N/A
+334,Batman Infinite,2016,tt3727758,movie,N/A
+335,Sassy Batman,2014–,tt3752894,series,N/A
+336,Batman Retires,2014,tt3955964,movie,N/A
+337,Batman: Battle for the Cowl,2015,tt3760436,movie,N/A
+338,The Batman: Season 3 Unmasked,2007,tt3769348,movie,https://m.media-amazon.com/images/M/MV5BMTIxNDg5MzMyMl5BMl5BanBnXkFtZTcwNDQwMDI0MQ@@._V1_SX300.jpg
+339,Untitled Batman Spin-off Series,2017–,tt3773050,series,https://m.media-amazon.com/images/M/MV5BMjM2MjczNTU1NV5BMl5BanBnXkFtZTgwNjEzNTQ3NzE@._V1_SX300.jpg
+340,The Batman: Season 4 Unmasked,2007,tt3780852,movie,https://m.media-amazon.com/images/M/MV5BMTU0MDY5MDg0M15BMl5BanBnXkFtZTcwNTU2NzE1MQ@@._V1_SX300.jpg
+341,The Original Batman,2014–,tt4267552,series,N/A
+342,Batman and Jimbo,2015,tt4295146,movie,N/A
+343,Batman is a Vampire,2014,tt3960410,movie,https://m.media-amazon.com/images/M/MV5BOTkzYjRlMzktYmVlMC00OGY1LTg1MTEtNjE0YWY2YzQ5YWI1XkEyXkFqcGdeQXVyNDk1MTQ1Mg@@._V1_SX300.jpg
+344,Indecisive Batman,2014,tt4078622,movie,N/A
+345,Batman: A Face a Laugh and a Crow,2006,tt4105288,movie,N/A
+346,Bizim Batman,2015,tt4105670,movie,N/A
+347,Batman: The Final Battle,2008,tt4109740,movie,https://m.media-amazon.com/images/M/MV5BNTE5YWMyMzEtMTJiMC00MWQ5LTgyNjctNWM1ZmVlMDJiNDFiXkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg
+348,The Evolution of Batman in Cinema,2015,tt4465212,movie,N/A
+349,Batman: Retribution,2014,tt4531936,movie,https://m.media-amazon.com/images/M/MV5BMzY0NWMxOGQtZjRjYy00NDUyLTk4NWYtNTQ1MjA1NDY1YTc4XkEyXkFqcGdeQXVyMzUwMDIzMDQ@._V1_SX300.jpg
+350,Holy Board Meeting Batman!,2014,tt4614012,movie,N/A
+351,Batman Reboots,2010,tt4653674,movie,N/A
+352,Batman: Arkham City Lockdown,2011,tt4671780,game,N/A
+353,Batman: Hidden Affairs,2015,tt4338228,movie,N/A
+354,Batman Forever Heroes: Batman,2005,tt5524936,movie,N/A
+355,Henry Cavill Asks Kids: Batman or Superman?,2016,tt5536192,movie,N/A
+356,Jesse Eisenberg Asks Fans: Batman or Superman?,2016,tt5536258,movie,N/A
+357,Batman Goes to School,2015,tt5582988,movie,https://m.media-amazon.com/images/M/MV5BZmM5YThkMmMtY2ZjYS00YjhlLTg2ZWItYTRlNGE4ZDJkNDE3XkEyXkFqcGdeQXVyNjAwOTY3ODg@._V1_SX300.jpg
+358,Batman Beyond,2013,tt5870152,movie,https://m.media-amazon.com/images/M/MV5BZGI0YmNmNTQtNjc1NS00Yzk3LWJkMDItZmY0ZjJiZTRmMmY0XkEyXkFqcGdeQXVyMzI3MTE1Mzc@._V1_SX300.jpg
+359,Batman: The Darkest Night,2018–,tt5893252,series,https://m.media-amazon.com/images/M/MV5BZmY1MDA1MWQtOGE4MS00N2FkLThjZjYtMGUwYTllNWE2ZDBmXkEyXkFqcGdeQXVyNjMxNDI4OTM@._V1_SX300.jpg
+360,Batman: Arkham VR,2016,tt5808316,game,N/A
+361,Batman,2016,tt5807064,game,N/A
+362,Batman Unveiled,2018,tt5718528,movie,https://m.media-amazon.com/images/M/MV5BMGMyYTg4MjQtYmU4Ny00ZmZmLWJkMjktNzljYTVhOTkxMGE3XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg
+363,Batman: Return to Arkham,2016,tt5734258,game,https://m.media-amazon.com/images/M/MV5BYmZmNWM0NjgtODc1OC00OTViLWE0N2EtOTIyNjc2MTdhYTE2XkEyXkFqcGdeQXVyNjUzNDk2Mzk@._V1_SX300.jpg
+364,Batman: Where is he Now?,2016,tt5754504,movie,N/A
+365,Lego Batman: Riddler Returns,2010,tt5608302,movie,N/A
+366,The Adventures of Batman & Robin Cartoon Maker,1995,tt4837054,game,N/A
+367,Moody Batman,2015,tt4837128,movie,N/A
+368,Building Batman,2013,tt4905852,movie,N/A
+369,Comment embrasser une fille avec trois questions? Batman dating tips,2015,tt4773104,movie,N/A
+370,Batman: Cape & Cowl,2014–,tt4774188,series,N/A
+371,Batman Beyond: Night of the Pickpocket,2010,tt4778252,movie,https://m.media-amazon.com/images/M/MV5BYzg0ZWVmZGQtZTZjNS00N2JhLTk2MWUtOTMyNmNmOTk0MDgyXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+372,[Bootleg] Batman: Vickie Valle,2014,tt4365206,movie,https://m.media-amazon.com/images/M/MV5BMTc1MTk4MDY2Nl5BMl5BanBnXkFtZTgwMzg4NjE2NDE@._V1_SX300.jpg
+373,Batman: The Dark Knight Beyond,2016,tt4430982,movie,N/A
+374,Beyond Batman: Frozen Freaks and Femme Fatales - The Makeup of 'Batman & Robin',2005,tt5186650,movie,N/A
+375,The Adventures of Batman & Robin,1995,tt5024506,game,N/A
+376,Beyond Batman: Imaging Forever: The Visual Effects of 'Batman Forever',2005,tt5186892,movie,N/A
+377,Beyond Batman: Scoring Forever - The Music of 'Batman Forever',2005,tt5186904,movie,N/A
+378,Batman vs. Robin: Talon of the Owls,2015,tt4906656,movie,N/A
+379,Na Na Na Batman,2014,tt4906756,movie,N/A
+380,Batman: Fallen Son,2015,tt4969362,movie,N/A
+381,Batman: Personal Issues,2015,tt4972406,movie,https://m.media-amazon.com/images/M/MV5BMTliZjM3ZTktZmYxMC00NmZiLTlmNjItZTQwNTU4MzlmNTUzXkEyXkFqcGdeQXVyNzM1MDY2OTI@._V1_SX300.jpg
+382,Skyfest 2015: Batman vs Superman,2016,tt4976276,movie,https://m.media-amazon.com/images/M/MV5BMzE5ODEyMjEzMl5BMl5BanBnXkFtZTgwNzc4MDA3NzE@._V1_SX300.jpg
+383,Batman: The Hunt for Red Hood,2016–,tt4976342,series,N/A
+384,Batman Beyond: The Beginning,2017,tt4983524,movie,N/A
+385,Batman: Chaos in Gotham City,2012,tt2340280,movie,N/A
+386,Batman Returns: Rob Burman on Mold Making and Costumes,2012,tt2186524,movie,https://m.media-amazon.com/images/M/MV5BMDFkOTU4NmEtNTM5ZC00ZTRlLWJmNjItNjY3NzY0MmJjNzM5XkEyXkFqcGdeQXVyMTY2MzYyNzA@._V1_SX300.jpg
+387,Batman: The Enemy Within,1995,tt2099561,movie,N/A
+388,Batman Consquences,2011,tt2112111,movie,N/A
+389,Batman Consequences: Ending with the Premiere,2011,tt2139635,movie,N/A
+390,Batman- Out of Character,2011,tt2154366,movie,N/A
+391,Tomorrow Knight: Batman Reborn,2010,tt1871421,movie,N/A
+392,Goldentusk's Batman Theme Song,2007,tt1813157,movie,https://m.media-amazon.com/images/M/MV5BZDQ1MDBmZWUtMzExYy00MDFkLTk4MjMtMTQxZjgxZDc0N2Q1XkEyXkFqcGdeQXVyMzEzMzc3NA@@._V1_SX300.jpg
+393,Batman of Suburbia,2010,tt1842319,movie,N/A
+394,El día que conocí a Batman,2009,tt1635444,movie,N/A
+395,Batman: Hell On Earth,2019–,tt9827220,series,N/A
+396,"Cowabunga, Batman! When Comic Worlds Collide",2019,tt10020908,movie,N/A
+397,Batman: Gotham Pizza,2019,tt9740168,movie,https://m.media-amazon.com/images/M/MV5BMTI4ZGU5Y2MtZWI1Ni00NjBmLTlmZjMtNDQ1ZDhkNjFjNjBiXkEyXkFqcGdeQXVyODY2NDY0NTU@._V1_SX300.jpg
+398,The Lego Batman Movie 2,2022,tt9673190,movie,https://m.media-amazon.com/images/M/MV5BM2Q5Yjk4OWQtYjJiYy00NDIwLWFmNTYtNzc3NDE1MWU4NzMxXkEyXkFqcGdeQXVyNzI0NDk4OTE@._V1_SX300.jpg
+399,Lego Batman: The Ridiculous Cape,2010,tt10567834,movie,N/A
+400,Batman: Requiem for a Bat,2019,tt10666638,movie,https://m.media-amazon.com/images/M/MV5BMzk2NGE5NDQtNmJjMi00Zjk1LTk1OGUtOGUyMzNjZmEzMDg0XkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg
+401,East/West Batman,2018,tt10695666,movie,N/A
+402,Batman vs Captain America,2020,tt10726286,movie,https://m.media-amazon.com/images/M/MV5BYzM1OWRiNTItY2E2Mi00NGQ5LTgyYzItOTY5MWRlMzBlYWQ5XkEyXkFqcGdeQXVyNjY1ODQxNjE@._V1_SX300.jpg
+403,Realistic Batman Villains,2011,tt10836460,movie,N/A
+404,A Batman Voice Video,2012,tt10857182,movie,N/A
+405,Lonely Batman,2019,tt10872990,movie,https://m.media-amazon.com/images/M/MV5BZThmNjIwMWItZDEzOS00YThlLWJiY2MtYjg1OGE3OTBiMDJiXkEyXkFqcGdeQXVyNjM0MDQ4OTQ@._V1_SX300.jpg
+406,Batman & Robin: To the Fest,2019,tt10924754,movie,https://m.media-amazon.com/images/M/MV5BNDY3ZWNmOTktZDkwMi00MDRjLTgyYzQtODQ1ZjA2ODUyMGM2XkEyXkFqcGdeQXVyNjQzMjAwMjg@._V1_SX300.jpg
+407,Pixel Batman: Enter The Phantom Zone,2021,tt10938042,movie,https://m.media-amazon.com/images/M/MV5BMDVjZDQwN2QtZjA4MC00YjZhLWE1ZmQtMjg5YzgwMDFiYzk1XkEyXkFqcGdeQXVyODg2NDM5MTI@._V1_SX300.jpg
+408,BATMAN: TOTAL WAR,2019,tt11032372,movie,https://m.media-amazon.com/images/M/MV5BMzRmZTgyY2MtZWQ0Ni00ZDU1LWFiMGMtODcyN2RlYzk2NDA1XkEyXkFqcGdeQXVyNDgxMDEzNQ@@._V1_SX300.jpg
+409,Batman Parody,2015,tt8059124,movie,N/A
+410,Lego Batman Triumphant,2017,tt8111010,movie,N/A
+411,Batman: The Beginning,2018,tt8409234,movie,https://m.media-amazon.com/images/M/MV5BOTMzM2IxMDgtMTViZC00M2Y3LThmMjUtMTExYWVhOTE5ZDAzXkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg
+412,Deconstructing Andy Warhol's Batman/Dracula,2018,tt8422210,movie,N/A
+413,The Batman,2009,tt8449144,movie,N/A
+414,Deconstructing Boaz Yakin's Batman Beyond,2018,tt8452560,movie,N/A
+415,Ask Batman,2018,tt8594296,movie,https://m.media-amazon.com/images/M/MV5BYWMzMDllZjUtYmY1Yy00OGE1LTlkYjctOTEyNzBkZDlkMzBkXkEyXkFqcGdeQXVyMzMzODExODA@._V1_SX300.jpg
+416,That's Batman,2018,tt9014912,movie,https://m.media-amazon.com/images/M/MV5BYjBjZDAwMWMtYzY1ZC00YTBlLWEyZGEtZmYyMzAzOTI0MjQ1XkEyXkFqcGdeQXVyMTA1MjQ2MDA4._V1_SX300.jpg
+417,Crane (Batman - DC universe Fan Film),2016,tt9203430,movie,https://m.media-amazon.com/images/M/MV5BYjVlMmFlNDItMzEwYi00YzkxLWFlNzktMzE0YTY1ZmQwOTBkXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+418,The Batman Minecraft Series,2019–,tt9446358,series,N/A
+419,Lego Batman: Rebrick Contest Winners,2017,tt7505020,movie,https://m.media-amazon.com/images/M/MV5BZDFjMTA1MWQtZDE0ZC00MDVmLWI4YzMtNGMzYTQwN2FmNTIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+420,Batman: The Dark Knight,2018,tt8841990,movie,https://m.media-amazon.com/images/M/MV5BNTU3OGY1NTEtNWFhNy00YjhhLTk5NGQtY2Q5NGNmMDE0OTFlXkEyXkFqcGdeQXVyODc5OTgyODQ@._V1_SX300.jpg
+421,Batman: Joker Escapes!,2018,tt8876038,movie,https://m.media-amazon.com/images/M/MV5BNzNjZjE3NTQtOGJiNy00YWZiLTg0YmUtMTYzY2ZjOGE4ZmVkXkEyXkFqcGdeQXVyODMyMjU2NzQ@._V1_SX300.jpg
+422,Batman: Dark City,2019,tt10152756,movie,https://m.media-amazon.com/images/M/MV5BMWQ5NWUyZDYtMjhkZC00MjM0LTllOTYtMzBmNGQ3OGFhYzc0XkEyXkFqcGdeQXVyNzk5OTM5ODg@._V1_SX300.jpg
+423,Batman Missions,2018,tt11235952,series,https://m.media-amazon.com/images/M/MV5BNDExZmM3NTYtY2MzMS00ZDUzLTk1NDEtNTcxNWRhOTUwNDE1XkEyXkFqcGdeQXVyNDU0OTA0ODI@._V1_SX300.jpg
+424,The Batman,2020,tt11373302,movie,N/A
+425,Spectre Studios' Batman,2019,tt11398626,movie,https://m.media-amazon.com/images/M/MV5BN2U0OTYyOGMtNjVhMC00OGMxLTgzNDEtYmIzOTdhYjY4MDk4XkEyXkFqcGdeQXVyMTEwODA3OTI2._V1_SX300.jpg
+426,"Happy Birthday, Batman!",2019,tt11424968,movie,https://m.media-amazon.com/images/M/MV5BOTI1MmEzOTgtNGIyNi00ODExLTk1MzItZGFkNjI0NGIyYTFhXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_SX300.jpg
+427,Batman: One Final Joke,2020,tt11428012,movie,https://m.media-amazon.com/images/M/MV5BZDE4MjFmMjEtYzc4NS00ZGVjLTk4NTEtYTI1YTZkYjg0MzUxXkEyXkFqcGc@._V1_SX300.jpg
+428,Batman Alley,2018,tt11469356,movie,N/A
+429,Terrible Batman Begins Remake,2007,tt11723578,movie,N/A
+430,The Batman,2016,tt11889258,movie,N/A
+431,Batman: Dawn of Fear,2021,tt11937652,movie,https://m.media-amazon.com/images/M/MV5BZmUyY2NkMTQtNTk0ZS00ZjA4LWJlOWMtMGNmYWI5NzE3YzQxXkEyXkFqcGdeQXVyMTA0MzYxODEx._V1_SX300.jpg
+432,Batman: Most Wanted,2020,tt12059074,movie,https://m.media-amazon.com/images/M/MV5BYTM3ZGIwYjQtYTE1My00MGRiLWJlMGItMDc2NDhkZDEyMTQyXkEyXkFqcGdeQXVyMTE1NTM5MTIy._V1_SX300.jpg
+433,Batman v Superman: Animated,2015,tt12190482,movie,N/A
+434,Batman - 80 Years of the Dark Knight (DCAU),2019,tt12190566,movie,N/A
+435,Batman,2020,tt12214724,movie,https://m.media-amazon.com/images/M/MV5BZjg2MzVhZDgtYjZiMi00NmM0LTlkYTgtYmFhODkyM2Y4ODFlXkEyXkFqcGdeQXVyMzI5NDExMTE@._V1_SX300.jpg
+436,"Batman, the Punchline",2018,tt12307390,movie,https://m.media-amazon.com/images/M/MV5BNTM3ZjBjYWMtZWVmYi00MTM2LTg3Y2QtNWMyMDk0YTQxYjY1XkEyXkFqcGdeQXVyNjkyNjg2MjI@._V1_SX300.jpg
+437,LEGO Batman: Crime War,2018,tt12669842,movie,N/A
+438,Untitled Batman/HBO Max Project,2022–,tt12687642,series,N/A
+439,Batman Riddle Me This,2022,tt12699124,movie,https://m.media-amazon.com/images/M/MV5BNWM0Y2QyMTAtNTNiYS00NzZjLWIyYzgtYzU0YWZkNjBkODc4XkEyXkFqcGc@._V1_SX300.jpg
+440,LEGO Dark Knights: The Batman who Laughs,2020–,tt12702866,series,N/A
+441,What if Batman,2020,tt12707030,movie,https://m.media-amazon.com/images/M/MV5BNzE0NDlmYjktMWJhOS00YTBhLWJiZDktMTFkMjg1NTgxMWIxXkEyXkFqcGdeQXVyNzAwOTIwNTI@._V1_SX300.jpg
+442,Batman & Robin Forever,2020,tt12809960,movie,https://m.media-amazon.com/images/M/MV5BNzkzYjBjMzktNDFmNC00NTE3LWE1MzMtNmEyZTI1MjFjOGMwXkEyXkFqcGdeQXVyMjQ1NzY3MjQ@._V1_SX300.jpg
+443,Batman: A Beautiful Lie,2022,tt12815434,movie,https://m.media-amazon.com/images/M/MV5BNTZmZTAxZDctN2FhOC00ZWFjLThiYjMtMTBiNDg4Y2NmYzQ4XkEyXkFqcGdeQXVyMTIwMTEzNjQ2._V1_SX300.jpg
+444,Batman: Dawn of the Knight,2021,tt12860898,movie,N/A
+445,Batman v Superman: Dawn of Breakfast,2016,tt6654350,movie,N/A
+446,Lego Batman: Me & My Minifig - Michael Cera,2017,tt7504298,movie,https://m.media-amazon.com/images/M/MV5BZjczY2E3OGUtZjFiYi00ZjI3LThkOTctZjQ1Yjc3ZWZhM2VmXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+447,Lego Batman: Me & My Minifig - Rosario Dawson,2017,tt7504366,movie,https://m.media-amazon.com/images/M/MV5BZDU0MGYxMTYtYWNlMi00YjE2LTg2NmUtMDMxY2VlZDhhZmIwXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+448,Lego Batman: Me and My Minifig - Will Arnett,2017,tt7504488,movie,https://m.media-amazon.com/images/M/MV5BZjE3ZGVlY2MtNDNmYy00YzU1LThiNGYtZDNiNDVlYzI4MTA4XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_SX300.jpg
+449,Batman V Superman: League at War,2018,tt7596414,movie,N/A
+450,Lego Batman: Arkham City Vol. 2,2017,tt7607366,movie,N/A
+451,The Naked Babes of Batman,2016,tt7668496,movie,N/A
+452,Lego Batman: Arkham City Vol. 3,2017,tt7697464,movie,N/A
+453,Batman: The White Knight,2020,tt7709716,movie,https://m.media-amazon.com/images/M/MV5BOGQwNjhjNmItZjgyYy00NmJmLWE5ZTgtNDkxYTM4ODg3MWFlXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg
+454,Purple and Green (Batman Fan Film),2018,tt7820338,movie,https://m.media-amazon.com/images/M/MV5BMDlhNjI3MmYtZDRiNS00MTZmLWE4NTAtYjg0MjEwYmFhZDdmXkEyXkFqcGdeQXVyMzYzNzc1NjY@._V1_SX300.jpg
+455,Batman: Year One,2019,tt7829938,movie,https://m.media-amazon.com/images/M/MV5BYTMzNzAxOTAtZTFmOS00NWQ5LWI2MzQtODQwZjc1NzcwM2ZmXkEyXkFqcGdeQXVyNzEwOTAyMzc@._V1_SX300.jpg
+456,Batman Beyond,2018,tt7899164,movie,https://m.media-amazon.com/images/M/MV5BMDkxN2MyYWEtYmRlMC00ZTY4LTliYzktZDlmMTg3ZTIyNjg3XkEyXkFqcGdeQXVyMjExMDE1MzQ@._V1_SX300.jpg
+457,Batman the Dawn of the Knight,2017,tt7058516,movie,https://m.media-amazon.com/images/M/MV5BNGViZTg3NzMtOGYzMC00YTk4LTkwY2ItOWU3MjBiNGJiZjIzXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg
+458,Batman the Rise of Red Hood,2018,tt7076968,movie,N/A
+459,Puppets vs. People: Batman vs. the Homeless,2017,tt7099058,movie,https://m.media-amazon.com/images/M/MV5BMmI1ZGVmMjktN2U3Zi00NmFmLWI5YmEtNTlmYzcwODJmNzhlXkEyXkFqcGdeQXVyNzgyNDUxNDg@._V1_SX300.jpg
+460,"Silly Batman: Episode 1, Everything is Awesome!",2015,tt7129628,movie,N/A
+461,Thomas & Friends: DC Super Friends San Diego Comic Con Ft. Thomas as Superman & Diesel as Batman,2016,tt7150484,movie,https://m.media-amazon.com/images/M/MV5BOTU2NmQxMjYtZWI1Mi00MTgxLTk1ODYtZWM3ODQzZTI3YzE1XkEyXkFqcGdeQXVyMjIzMTU3Mjk@._V1_SX300.jpg
+462,The Batman (Animated MC Series),2018–,tt7298666,series,N/A
+463,Office Batman,2017,tt7322206,movie,https://m.media-amazon.com/images/M/MV5BY2Y2MTk2NTMtMjEyOC00Yjg1LThjODUtMWUxMWNlMDNkMzI2XkEyXkFqcGdeQXVyODAwMDI4OTQ@._V1_SX300.jpg
+464,Batman: Son of Gotham,2017,tt6880312,movie,https://m.media-amazon.com/images/M/MV5BMzA5Yjk3MDItZTJiZC00ODQzLTlkMGEtYmExNmYwYTU1ZTllXkEyXkFqcGdeQXVyMzQxNTk5OTY@._V1_SX300.jpg
+465,"B@: It's a Wonderful Life, Batman!",2016,tt6359334,movie,https://m.media-amazon.com/images/M/MV5BNzRkNzk1M2MtZjdlMi00Y2EyLThiODUtMzBiYTYwZmQ3MDljXkEyXkFqcGc@._V1_SX300.jpg
+466,Batman vs. Superman: The Clones of Justice,2015,tt6365452,movie,N/A
+467,Adis Games: Batman Arkham/Return to Arkham,2016–,tt6446098,series,N/A
+468,Bloody Batman,2015,tt6549894,movie,N/A
+469,Batman Is Awesome,2015,tt6550050,movie,N/A
+470,Hot Wheels All Access: Batman v. Superman,2016,tt6684296,series,N/A
+471,Batman Returns,1993,tt6710462,game,N/A
+472,Batman: Return of the Joker,1991,tt6722782,game,https://m.media-amazon.com/images/M/MV5BMTI1NTcwYzgtZjhhNS00Y2JlLTk5NGEtMTUyNzA1M2MxYWE1XkEyXkFqcGdeQXVyNjI2OTgxNzY@._V1_SX300.jpg
+473,Lego Batman: Origins Vol. 1,2016,tt6727988,movie,N/A
+474,Lego Batman: Origins Vol. 2,2016,tt6728000,movie,N/A
+475,Lego Batman: Origins Vol. 3,2016,tt6728010,movie,N/A
+476,Lego Batman: Dark Knight Vol. 1,2016,tt6728018,movie,N/A
+477,Lego Batman: Dark Knight Vol. 2,2016,tt6728026,movie,N/A
+478,Lego Batman: Dark Knight Vol. 3,2016,tt6728034,movie,N/A
+479,Lego Batman: Arkham City Vol. 1,2016,tt6728046,movie,N/A
+480,How I Be Batman,2017,tt6749430,movie,https://m.media-amazon.com/images/M/MV5BY2U4OTU3ZDEtNzBiZC00YjkwLTgzN2UtMTY2NDNlNzU0MmJiXkEyXkFqcGc@._V1_SX300.jpg
+481,Batman: The Final Victory,2010,tt6824186,movie,https://m.media-amazon.com/images/M/MV5BYzA0Y2UyNTMtN2Q4NC00YjczLWE4YTEtMWQ4MzA3NTRiMDQzXkEyXkFqcGc@._V1_SX300.jpg
+482,Batman vs Superman: The Best Superpower Ever,2016,tt6159030,movie,https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg
+483,Good Knight (AKA Batman),2014,tt6233928,movie,https://m.media-amazon.com/images/M/MV5BNjMyOGU1ZmUtNTBiMi00MDQyLTg1YjAtMmFhNjQ2YzRmZmI0XkEyXkFqcGdeQXVyMTk1OTA1Mw@@._V1_SX300.jpg
+484,Because I'm Batman Films,2014–,tt6297036,series,N/A
+485,The Batman: A Fan Film,2013,tt6357440,movie,N/A
+486,Chicano Batman: Black Lipstick,2016,tt6011504,movie,N/A
+487,Pivot Batman,2015,tt5898370,movie,https://m.media-amazon.com/images/M/MV5BYTQ2MTI1MWYtODNkYS00OGMzLTg1ZjUtNDFjYzliMTM1OTlmXkEyXkFqcGdeQXVyNjQwMTcyMjY@._V1_SX300.jpg
+488,Batman the Dawn of the Knight,2016,tt5988932,movie,https://m.media-amazon.com/images/M/MV5BMjVjZTY0MWUtZGE3Ny00MWQ2LWE4N2QtMDkyYzI1NTc1M2YxXkEyXkFqcGdeQXVyNjgyMjM1NTc@._V1_SX300.jpg
+489,Batman Remembers,2017,tt12948860,movie,N/A
+490,Superfan Dogs: Batman and Superman Comics,2020,tt12410244,movie,https://m.media-amazon.com/images/M/MV5BMDhjMGUwYzUtMWY3MS00Y2M2LWE3NGMtNzUwMzBhZjY1ODc3XkEyXkFqcGdeQXVyMTEzMjQzMDM1._V1_SX300.jpg
+491,Scripts Gone Wild Batman 1966,2020,tt12432030,movie,https://m.media-amazon.com/images/M/MV5BZWJhNDFhM2UtMjk0Ny00Y2VkLTk2YWItYWNkMTE2MDYwZjVjXkEyXkFqcGc@._V1_QL75_UX312_.jpg
+492,Batman: Knightfall,2022,tt13087500,movie,https://m.media-amazon.com/images/M/MV5BZTQwNmY4MmEtYjNhZi00MzJjLTgxNGItNmQyNmI0YzQ4NWNhXkEyXkFqcGdeQXVyMTIwNjUyOTA3._V1_SX300.jpg
+493,Batman: Lockdown,2020,tt13394336,movie,N/A
+494,Batman: Aftermath,2022,tt13456320,movie,https://m.media-amazon.com/images/M/MV5BNmJmYWU3YzAtY2ZmMS00MzU5LWI3ZDMtNGY1MjEwMWU3MTBmXkEyXkFqcGdeQXVyODgwOTAwMTU@._V1_SX300.jpg
+495,Untitled Batman: Reboot,2022,tt13456446,movie,N/A
+496,Batman: Choose Your Mission,2020,tt13470244,series,N/A
+497,Nostalgic Tomorrow: A Batman Gathering,2019,tt13478014,movie,https://m.media-amazon.com/images/M/MV5BNzE4OTNhMTYtNTgwOC00MzE4LTgxMTYtODBiZDI0YzdjNzhhXkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+498,The Darkest Knight (A Batman Musical),2013,tt13516142,movie,https://m.media-amazon.com/images/M/MV5BN2ZmY2U3OGItMTJhZi00MzIwLTk5YTYtMWMwOGE5OTBmOWY5XkEyXkFqcGdeQXVyMzMzMDMzMjQ@._V1_SX300.jpg
+499,Batman: A Beautiful Lie,2022,tt13534276,movie,N/A
+500,Stay 'Tooned! Presents - Batman: The Animated Series,2021,tt13701802,movie,https://m.media-amazon.com/images/M/MV5BMTA2NzQyYmMtYzE0OS00MjMyLTkxMzQtMDc3MjYzN2NkYThkXkEyXkFqcGdeQXVyMTg1NTMwOQ@@._V1_SX300.jpg
+501,Batman V. Superman: Dawn of Justice (2016),2016,tt13797668,movie,https://m.media-amazon.com/images/M/MV5BYmQ4NmQyYTktMjEyNy00NGJkLWI1YmItOGZmNDkxYmU0N2I1XkEyXkFqcGc@._V1_SX300.jpg
+502,Untitled the Batman Spinoff,2023–,tt15494650,series,N/A
+503,Batman Forever (1995) Part One with AJ Detisch - Tommy Lee Jonesin' for the '90s,1995,tt15594328,movie,N/A
+504,Batman Forever (1995) Part Two with AJ Detisch - Tommy Lee Jonesin' for the '90s,1995,tt15594330,movie,https://m.media-amazon.com/images/M/MV5BMDgzZTNhOWUtNGRmZi00Mjg3LTlmMmMtMjkyZjJmMmVmNGIzXkEyXkFqcGdeQXVyNzYzMTgwMw@@._V1_SX300.jpg
+505,Batman! Night of the Knight,2020,tt15598866,movie,https://m.media-amazon.com/images/M/MV5BZjg3MTg2YzItY2M4Mi00NWI0LWJjYjUtYmI0ZDZjYTE5MDg3XkEyXkFqcGdeQXVyMTM5NDY3MjU4._V1_SX300.jpg
+506,Batman back to Dawn,2021,tt15608658,movie,https://m.media-amazon.com/images/M/MV5BZDJlNTY3NGUtYjc5Ny00MDk5LTg0NTMtMDYxMDA5NTQ2OGIwXkEyXkFqcGdeQXVyMTM5NDkxOTc1._V1_SX300.jpg
+507,JDR Batman Gotham City Chronicles,2021–,tt15672658,series,N/A
+508,Building with Batman,2020–,tt15722756,series,N/A
+509,Sooperfilms' the Batman,2016,tt15799706,movie,https://m.media-amazon.com/images/M/MV5BOTczMjgyYTEtZmUwZi00NDUwLThiNGQtYWQyMzY3YTNkMGY3XkEyXkFqcGdeQXVyMTA3OTkxNjQy._V1_SX300.jpg
+510,Batman (1989),1989,tt16417798,movie,N/A
+511,Batman Forever (1995),1995,tt16417816,movie,https://m.media-amazon.com/images/M/MV5BY2I4YzU4YTYtZDc3OC00NjcwLTlhM2ItNjlmYjNiMjFkMTRiXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg
+512,Batman & Robin (1997),1997,tt16417820,movie,https://m.media-amazon.com/images/M/MV5BY2I4YzU4YTYtZDc3OC00NjcwLTlhM2ItNjlmYjNiMjFkMTRiXkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg
+513,RiffTrax Presents: Batman Forever,2009,tt16757454,movie,https://m.media-amazon.com/images/M/MV5BMTg4ZjJjYWYtZWM1ZS00ZDBmLTkzYTAtNTQ1ZGIxOWIzMGU2XkEyXkFqcGc@._V1_SX300.jpg
+514,I'm Batman (The Truth About Bats),2014,tt16763806,movie,N/A
+515,Batman: The Fan Series,2020–,tt16914522,series,https://m.media-amazon.com/images/M/MV5BZjJkY2RhM2MtZDQ3Ni00YTViLTg1ZDctZDMyNDJkYzYzNmVlXkEyXkFqcGdeQXVyNTU5MjczNg@@._V1_SX300.jpg
+516,Batman: The Killing Joke,2024,tt17374750,movie,https://m.media-amazon.com/images/M/MV5BNWY0M2IyNTQtYmY2Zi00NDk3LWFlMDktZTIwMmFkMjRmZTkwXkEyXkFqcGdeQXVyMzUwMTE1NzE@._V1_SX300.jpg
+517,Transformação Do Batman,2019,tt18104082,series,https://m.media-amazon.com/images/M/MV5BZTM4OWY3NjEtM2I0OS00OGI1LWFiYmUtYjFkMWM2OWNkYjQ4XkEyXkFqcGdeQXVyNTAzMjA2MDQ@._V1_SX300.jpg
+518,LEGO Batman: Brick by Brick Featurette,2017,tt18296666,movie,N/A
+519,Batman Begins (2005),2005,tt18303446,movie,https://m.media-amazon.com/images/M/MV5BNzkyZTAzZjktMWVmMC00Yzg0LWIxZWYtNWRjMTljM2I3MjE2XkEyXkFqcGdeQXVyMTE4NTEwNTky._V1_SX300.jpg
+520,Batman: Wayne Family Adventures,2022–,tt18305174,series,https://m.media-amazon.com/images/M/MV5BZGM1NjNlNWMtY2M2Yy00ZjgyLThjOWYtYWMwMjc5ZjEyODdhXkEyXkFqcGc@._V1_SX300.jpg
+521,Wonder Woman vs the Batman,2022,tt18395286,movie,N/A
+522,The Batman (2022),2022,tt18554796,movie,https://m.media-amazon.com/images/M/MV5BYWU0Y2Q0ZmUtMjhiZS00NDljLWIwOWMtZjJkNWQ1MjEyODcwXkEyXkFqcGdeQXVyNTMxMTQ1NTk@._V1_SX300.jpg
+523,The Batman (2022),2022,tt18601798,movie,https://m.media-amazon.com/images/M/MV5BZjdiYjljZGEtZGZlYy00YTI4LWFlNjItZDRjYjZiMGZkMDU1XkEyXkFqcGc@._V1_SX300.jpg
+524,Superman: Agent of Batman,2020,tt14857194,movie,N/A
+525,Batman Unburied,2021–,tt15124208,series,N/A
+526,Lego Batman,2020–,tt15146020,series,https://m.media-amazon.com/images/M/MV5BNzNhZDhmMDktMzM1Yi00MTM1LTgzZGMtZmJlNGU5NDg3NTgyXkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg
+527,Batman: The Audio Adventures,2021–,tt15179396,series,N/A
+528,Batman: The Case of the Laughing Death,2021,tt15424526,movie,https://m.media-amazon.com/images/M/MV5BYzZlZDZiMDUtOTMyNy00OWU0LTgxOTgtYjY5OGJmMzhiMGQwXkEyXkFqcGdeQXVyMTc1NTkwNjk@._V1_SX300.jpg
+529,Batman beyond the movie,2023,tt18938888,movie,N/A
+530,What If I Killed Batman?,2020,tt13834204,movie,https://m.media-amazon.com/images/M/MV5BNjhhOGY2ODItYWIyOC00N2JkLWEzM2YtYWIzOGNmMzdlODYzXkEyXkFqcGdeQXVyMzU4MzY2NDg@._V1_SX300.jpg
+531,What if Batman?,2021,tt13938264,movie,https://m.media-amazon.com/images/M/MV5BMmE1MDBlODYtNzdmMS00ZTRmLWI3N2UtOTgyN2NlOTEyMGYxXkEyXkFqcGdeQXVyODk0MjY2MTc@._V1_SX300.jpg
+532,Batman: Under the Dark,2020–,tt13998876,series,https://m.media-amazon.com/images/M/MV5BNmUxM2Q4Y2ItOGU4OS00YmExLWJkZTctYTAzMjBmOGFjOTgwXkEyXkFqcGdeQXVyMTI1NjYyNzE3._V1_SX300.jpg
+533,Lego batman-the zombie riddler,2021,tt14242596,movie,https://m.media-amazon.com/images/M/MV5BYmRlYjdlZTYtYWNlZC00NGE0LWJjMjQtYWFjNDVlYTk0NTc0XkEyXkFqcGdeQXVyMTI1MTY5MDAx._V1_SX300.jpg
+534,What the Hell Happened in the Writer's Room: Batman Returns,2020,tt14315468,movie,https://m.media-amazon.com/images/M/MV5BMzc5ODEyZmQtOTQ5Zi00YjRjLTg5NzAtZGZiNTdhOTY1MThlXkEyXkFqcGdeQXVyNjkxNDYxODY@._V1_SX300.jpg
+535,Batman: Raw Groove,2021,tt14488904,movie,N/A
+536,Batman Other Worlds,2021,tt14364244,movie,https://m.media-amazon.com/images/M/MV5BMDI3MDA2MDUtNzc4OS00NjIyLWI5ZjctMzE2MjM2MGFkOTMxXkEyXkFqcGdeQXVyMjI1MTU4OTM@._V1_SX300.jpg
+537,"Holy BatCast 353 - Carl Newman, Keaton's Movement Double in Batman (1989)",1989,tt21754174,movie,https://m.media-amazon.com/images/M/MV5BYWMxNTI4YzItYjc4MS00NmFjLWI0MTktMzI3MGEyOWU3MDc2XkEyXkFqcGdeQXVyMjg2NzY5Mw@@._V1_SX300.jpg
+538,Batman now (Fan film),2017,tt21806092,movie,N/A
+539,Batman: Heart of Ice,2022,tt21825892,movie,https://m.media-amazon.com/images/M/MV5BODc5YWU2MzUtZGFkNS00MWRiLTg2OTYtOThiZTJmNTQzNWEwXkEyXkFqcGdeQXVyMTAwOTU0ODgz._V1_SX300.jpg
+540,The Batman,2022–,tt21953682,series,https://m.media-amazon.com/images/M/MV5BOTNlZjc1MTUtNWEzYi00YTkwLTgxNGItNmVlOTI1YTNhMzViXkEyXkFqcGdeQXVyMTI3NDUwMzg5._V1_SX300.jpg
+541,Batman: The Dawn Sequel,2022,tt22041034,movie,N/A
+542,Batman v Superman: The Dawn Of Justice (2016) V.S. Captain America: Civil War (2016) W/Dan Keatis,2016,tt22087648,movie,https://m.media-amazon.com/images/M/MV5BOGQ2MWJlZmUtNWMxMi00MjdjLWFhNDctNjBiZjZhYjAyZTQyXkEyXkFqcGdeQXVyMzg2NjIxNTY@._V1_SX300.jpg
+543,Lego: The Batman,2022,tt22098332,movie,https://m.media-amazon.com/images/M/MV5BMDU4ZDU0NmUtZTg4NC00OWY0LWEyZjgtODllNjhlY2YwMTYyXkEyXkFqcGc@._V1_SX300.jpg
+544,Episode 208: &quot;Batman&quot; (1989): Movie Review,1989,tt22375898,movie,https://m.media-amazon.com/images/M/MV5BMTYwMzQ5Y2EtMjhiYS00ZDc5LWI1ZDUtNmU3MGRhYTZkYzMyXkEyXkFqcGdeQXVyMTUyMTUzNjE0._V1_SX300.jpg
+545,Batman: Taking Flight,2022,tt22855072,movie,https://m.media-amazon.com/images/M/MV5BYTUxZWM4ZmEtMmM3ZS00N2ZhLWIwZWUtZGVjNTE2MTNmODIxXkEyXkFqcGdeQXVyMjkxNjk4NDU@._V1_SX300.jpg
+546,The Batman (2022) - I'M VENGEANCE,2022,tt22929736,movie,N/A
+547,Unqualified Observers 37: The Batman (2022) Discussion with Special Guest Collin Miller,2022,tt22934440,movie,N/A
+548,Batman VS the Joker,2023,tt23117982,movie,https://m.media-amazon.com/images/M/MV5BNGRkNTVkNDAtNTI4Mi00ZmEzLWFjMTQtYmJhNzI1OTQxNjllXkEyXkFqcGdeQXVyNzc2MjU5MzA@._V1_SX300.jpg
+549,LEGO Batman: The Phobia Archive,2015,tt24222178,movie,https://m.media-amazon.com/images/M/MV5BMmE5NGIxZDItNzQzZS00ODkyLWE5NjItODhhMGUyYjg4NzI0XkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg
+550,Batman: Darkness of Day,2022,tt19267476,movie,https://m.media-amazon.com/images/M/MV5BMmE1MDliYmMtYWRhOC00MGI3LTkyMTItYWZlOGI4NWRiNjY5XkEyXkFqcGdeQXVyMTUwMTQyMDA2._V1_SX300.jpg
+551,Batman City of Heros,2015,tt19425140,movie,https://m.media-amazon.com/images/M/MV5BMjBkNTM3MDItNmMxMy00YTFjLTg2OWEtYmY3ZTNhNTg3MzM1XkEyXkFqcGdeQXVyOTM0NzUzMDE@._V1_SX300.jpg
+552,Batman: The Adventures Continue - Broken or Beautiful?,2021,tt19759834,movie,N/A
+553,The Batman: Part II,2027,tt19850008,movie,https://m.media-amazon.com/images/M/MV5BMTU2NzhiYWUtYThlZi00OWIyLTk3YWEtZjY3NmJjOTZiZDAyXkEyXkFqcGc@._V1_SX300.jpg
+554,The Batman (2022),2022,tt20149464,movie,N/A
+555,RedRacc: Lego Batman: The Video Game,2022–,tt20221002,series,N/A
+556,The Batman (2022),2022,tt20871066,movie,https://m.media-amazon.com/images/M/MV5BYmYyZmZlZWUtZDIyMi00ZWM4LTk4NmUtNWNiY2JkYzU1MGY0XkEyXkFqcGdeQXVyMTIxMzgxMTE1._V1_SX300.jpg
+557,Batman: The Series,2024–,tt21025456,series,https://m.media-amazon.com/images/M/MV5BMzEyY2VjOGYtNDc2Mi00YTA1LWI4Y2EtYjg5MDBlYWIwMWJkXkEyXkFqcGdeQXVyMTQ3MzQ2NDgy._V1_SX300.jpg
+558,The Batman Show,1970–1971,tt27634623,series,https://m.media-amazon.com/images/M/MV5BYTI4NDFlNTQtM2QwMC00MGM5LWIyZjktMjNiYTVmYjdiN2UyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_SX300.jpg
+559,Batman: The Killing Joke,2020,tt27672939,movie,https://m.media-amazon.com/images/M/MV5BYjU1YzA2YWEtNWY0ZC00NjFkLWI0OGUtYWZiODNkYWNlMWIxXkEyXkFqcGdeQXVyMTU3ODE4OTU3._V1_SX300.jpg
+560,Batman: The Making of a Hero,1989,tt27788317,movie,https://m.media-amazon.com/images/M/MV5BZDUwNGJlNWEtYmIxNy00NzRjLWE2ZTktYzhlNzg5YmEwMzFiXkEyXkFqcGdeQXVyMzY4ODk0Nw@@._V1_SX300.jpg
+561,Joshua Batman Meltdown,2022,tt21368950,movie,N/A
+562,Batman: Shadows of Gotham,2023,tt28015775,movie,https://m.media-amazon.com/images/M/MV5BMTI5YzM1YTYtNzA2MS00NmNmLTliMzctNmI4ODg4NzJkMzk2XkEyXkFqcGdeQXVyMDEyMDU1Mw@@._V1_SX300.jpg
+563,The Batman: The Dark Dynasty Continues,2022,tt28080915,movie,https://m.media-amazon.com/images/M/MV5BY2ZkOTcyYzItODlmZC00NjIxLWE4MTctMmE5ZmZhYmE1YzgwXkEyXkFqcGc@._V1_SX300.jpg
+564,Batman the Prey,2022,tt28153008,movie,https://m.media-amazon.com/images/M/MV5BZWRlNzI4MjktZGMzNi00MmVkLTkyZTQtN2FkM2I0MTAxYjY1XkEyXkFqcGc@._V1_SX300.jpg
+565,Lego Batman: Knight of the Shadows,2019–,tt28262652,series,https://m.media-amazon.com/images/M/MV5BZDgwOWRlM2QtZjcxYy00ZmRiLWFkZjItNDI5NGFiYTFhOGJlXkEyXkFqcGdeQXVyMTEwOTg3MDU3._V1_SX300.jpg
+566,Lego Batman: Into the Shadows,2022–2023,tt28262786,series,https://m.media-amazon.com/images/M/MV5BMjgxZTllMzAtZjQ1Yi00MGE5LWIxNzgtNjIyOWNlZGMzNDhlXkEyXkFqcGc@._V1_SX300.jpg
+567,Fear the Batman,2023,tt28378595,movie,https://m.media-amazon.com/images/M/MV5BOTgwYzQxM2QtM2Y1Yi00OTk0LTg0ZWEtNjcwMDQ0YzdmNDk4XkEyXkFqcGdeQXVyMTY4NDUzNDE5._V1_SX300.jpg
+568,Batman vs. Two-Face (2017),2017,tt28548781,movie,N/A
+569,"Lego Batman: Bricks, Bats & Bad Guys",2006,tt28696634,movie,N/A
+570,Batman The Movie (1966),1966,tt28871620,movie,N/A
+571,Batman: The Adventures Continue,2020–2023,tt29008703,series,https://m.media-amazon.com/images/M/MV5BY2JjOTUxMDQtMWU0NS00NjljLTlhYTktYzhjN2U2YWYyY2JmXkEyXkFqcGdeQXVyMDYxMTUwNg@@._V1_SX300.jpg
+572,The Batman: Grundy's Night (2005) Commentary,2005,tt26409410,movie,N/A
+573,Lego Batman the Show,2022–2024,tt26741255,series,https://m.media-amazon.com/images/M/MV5BMzdhMzFmM2UtYTUyYi00NTgwLWFlYmMtNmVlZTc3YjBiNmU2XkEyXkFqcGc@._V1_SX300.jpg
+574,Twisted Batman Theatre,1998,tt26744226,movie,https://m.media-amazon.com/images/M/MV5BODRmNDhiOWUtOTYyMy00OGU3LWE2NzQtMGZmYjYwOGJlMzZlXkEyXkFqcGdeQXVyMTUzMDg0MjYx._V1_SX300.jpg
+575,Batman: Gotham Pizza - Second Serving,2022,tt26781724,movie,https://m.media-amazon.com/images/M/MV5BZGU5NjY4Y2UtMGY2Mi00ZTgzLTg1NDktYjkyZGZjNjBjNzljXkEyXkFqcGc@._V1_SX300.jpg
+576,The Ballad of Alan Batman,2023,tt27238646,movie,https://m.media-amazon.com/images/M/MV5BOWM5MGU4NWYtOTgyMC00MDM3LWFkMGEtYjM0Njk2MjBlMTgzXkEyXkFqcGdeQXVyMTYzNjczNzYw._V1_SX300.jpg
+577,Batman: Arkham City: End Game,2014–2019,tt27251650,series,https://m.media-amazon.com/images/M/MV5BNmU3ZjNkZjgtNmZmNy00OGQ4LTlhMmMtZmI5ODgxZDc0NTdkXkEyXkFqcGc@._V1_SX300.jpg
+578,IS BATMAN (1966) THE BEST BATMAN MOVIE?,1966,tt27268947,movie,N/A
+579,Batgirl Teaches Batman a Lesson About Equal Pay,1973,tt24237538,movie,https://m.media-amazon.com/images/M/MV5BNTNlNzlmOGQtMDgxMS00MWEwLTlhOGMtMTI3MWU2N2JlY2NiXkEyXkFqcGdeQXVyMzY4ODk0Nw@@._V1_SX300.jpg
+580,Episode 01 - Batman (1989),1989,tt24266102,movie,N/A
+581,Lego Batman: The Series,2015–,tt24326128,series,https://m.media-amazon.com/images/M/MV5BYjYwY2I4ZWYtZTQ4Zi00MjIyLWI5M2UtNWQyOWM0Zjg4ZjlhXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg
+582,Batman Returns (1992),1992,tt24819774,movie,N/A
+583,Batman Returns (1992),1992,tt25210348,movie,N/A
+584,Son of the Mask (2005) (Guest: Ryan Hoss Writer Batman On Film + Super Mario Bros. The Movie Archive),2005,tt25210988,movie,N/A
+585,47: Batman & Robin (1997),1997,tt25281120,movie,N/A
+586,FRESH CUTS - The Batman (2022),2022,tt25281158,movie,N/A
+587,44: Batman (1989),1989,tt25281222,movie,N/A
+588,52: The Batman (2022),2022,tt25282298,movie,N/A
+589,51: The Lego Batman Movie (2017),2017,tt25282634,movie,N/A
+590,Batman Carpool,2020,tt25397176,movie,N/A
+591,Firefly-A Batman Short Fan Film,2022,tt25812266,movie,N/A
+592,Lego Batman,2014–2018,tt26246998,series,https://m.media-amazon.com/images/M/MV5BYTg0OTk3NjAtY2EzNC00N2YwLTg2ODUtN2M5MGQwYmJjNTc3XkEyXkFqcGdeQXVyOTAwNTI4NDM@._V1_SX300.jpg
+593,Batman: Manhunt,2023,tt29064227,movie,https://m.media-amazon.com/images/M/MV5BNjNjYmNiYmYtMGFjNi00OTA0LTkzMDAtYzBiYTFkYzAyOGE4XkEyXkFqcGdeQXVyMTcwMzQ1Mjg0._V1_SX300.jpg
+594,Vice Press x Thought Bubble Present: Batman,1989,tt29314118,movie,N/A
+595,Batman: A Taste of Terror,2023,tt29371331,movie,https://m.media-amazon.com/images/M/MV5BM2YzZjZlZmUtYzE5ZS00OTY3LWE2NWMtNTY5YmIzNDljM2FhXkEyXkFqcGc@._V1_SX300.jpg
+596,The Batman Plancarte,2022,tt29579769,movie,https://m.media-amazon.com/images/M/MV5BMTBjNzgzZDgtYjkzMy00MDlmLWJiNTItMWUzYmJhMmQ0ZjA2XkEyXkFqcGdeQXVyMTY0NjcxNjYx._V1_SX300.jpg
+597,Batman: Just A Mortal,2023–,tt29824876,series,https://m.media-amazon.com/images/M/MV5BOWFkZTkzM2MtZWQwMS00ZDIwLWE2NjUtYTFiYjg4NzQ2ZGRlXkEyXkFqcGdeQXVyMTcyNDU1ODI4._V1_SX300.jpg
+598,Batman: Detective Comics,2023,tt30498519,movie,https://m.media-amazon.com/images/M/MV5BOTdhMTE1ZTMtNDc5Ny00YjNiLWEzN2YtMzFiNGNhZWRlOTljXkEyXkFqcGc@._V1_SX300.jpg
+599,Batman Exordium,2024–,tt30769035,series,https://m.media-amazon.com/images/M/MV5BNTQ4NzdjOTUtYTU4MS00NWYxLWJmMjAtOWQwMTUyMTkyMjFjXkEyXkFqcGdeQXVyMzQxMjI2MTM@._V1_SX300.jpg
+600,Batman The,2022,tt30836123,movie,https://m.media-amazon.com/images/M/MV5BYTQ2OTFhNzMtNDc5NS00NTJjLTllZDUtNjJkYWMyOTUyN2I4XkEyXkFqcGc@._V1_SX300.jpg
+601,Justice for Batman: The Mark Racop Case,2023,tt30873804,movie,https://m.media-amazon.com/images/M/MV5BM2UwM2VkYjYtZjBhYy00Njc4LWE0MjAtMDU5MWNiYWFhOWIwXkEyXkFqcGdeQXVyMTc4Nzc3NzM@._V1_SX300.jpg
+602,Batman: Aftermath,2022,tt31077499,movie,https://m.media-amazon.com/images/M/MV5BYjJjOGQ2Y2ItZmFlNS00ZmVkLWI3OGUtNmFhMmRjOGE1NTM4XkEyXkFqcGc@._V1_SX300.jpg
+603,Batman thalaivargal,2024,tt31433162,movie,https://m.media-amazon.com/images/M/MV5BYmU2N2RkZjItMmZlMS00ZDE5LWExZjgtMDUzODRkN2JiYTU0XkEyXkFqcGdeQXVyMTU3NDgzODEx._V1_SX300.jpg
+604,Batman thalaivargal part 2,2024,tt31434669,movie,N/A
+605,Batman: Arkham Insider,2015,tt31709651,series,https://m.media-amazon.com/images/M/MV5BYmExMGM4ZTItMDMyZS00OTg1LWFlYzMtOTg5ZTZhYTE3MDMzXkEyXkFqcGc@._V1_SX300.jpg
+606,Batman Shadow of Darkness,2016,tt31790685,movie,https://m.media-amazon.com/images/M/MV5BNmE5MWI5MTAtN2JhNi00M2E4LWEwZmMtMDFmZTllNmMwYzJhXkEyXkFqcGdeQXVyMTI0OTQ5MTYw._V1_SX300.jpg
+607,Batman Beyond: Year One,2002,tt31912032,movie,N/A
+608,Batman VS the Joker 2: Miami's Freedom,2024,tt31923288,movie,https://m.media-amazon.com/images/M/MV5BNDAzMTY1ZTEtNzA5NC00OTNhLTlhYzktYWIxYWM4NzE5MDRhXkEyXkFqcGc@._V1_SX300.jpg
+609,Batman 1989 Movie in LEGO Stop Motion!,2024,tt34375260,movie,N/A
+610,The Batman V Suge Knight,2024,tt34375284,movie,https://m.media-amazon.com/images/M/MV5BYWE1OGQ3MTEtZTBlOS00Zjg5LWJhN2MtMGRhZmYwODIzYzI1XkEyXkFqcGc@._V1_SX300.jpg
+611,The Lego Batman Adventures,2011–,tt34470902,series,N/A
+612,Black Joker vs Thomas Wayne Batman,2024,tt34510125,movie,N/A
+613,Batman Fears,2023,tt34621964,movie,https://m.media-amazon.com/images/M/MV5BZGUxMjJkYjMtNzE2OS00MTJkLTllYWMtZWVlNmM1YjA4OTQ3XkEyXkFqcGc@._V1_SX300.jpg
+614,The Tales of Batman: Arkham,2011–,tt34792551,series,N/A
+615,The Tales of Batman: Arkham Specials,2017,tt34792683,series,N/A
+616,"The Tales of Batman: Arkham: Cold, Cold Heart",2013,tt34792696,series,N/A
+617,Batman the series: Under the Red Hood pilot movie,2023,tt34821811,movie,N/A
+618,Batman the Brave and the Bold: The Long Night,2025,tt34909130,movie,https://m.media-amazon.com/images/M/MV5BYjNlNjE0YTQtYzNjYy00YWQ2LThiY2QtZDkwN2YxZTUzNzI2XkEyXkFqcGc@._V1_SX300.jpg
+619,Freeze the Batman,2022,tt35231163,movie,N/A
+620,Batman Cave,2029,tt35303922,series,N/A
+621,Batman and Robin Talk Fan Film,2016,tt35310049,movie,https://m.media-amazon.com/images/M/MV5BMjRjMTE1ODItYmFkZS00ZjdjLThiZDYtMDhlYmUxOGIyOWE1XkEyXkFqcGc@._V1_SX300.jpg
+622,Batman and Robin Meet the Clock Man Fan Film,2018,tt35310062,movie,https://m.media-amazon.com/images/M/MV5BM2VhNDNhYTYtNWI2Ni00NDhkLWE3ZWEtY2RjYjc5MWI0MDgyXkEyXkFqcGc@._V1_SX300.jpg
+623,Batman - Unexpected East Frisia,2025,tt35853905,movie,https://m.media-amazon.com/images/M/MV5BNDc5MmM1ZWQtMWFkYy00OGM0LTk3OWEtMzJlMWFhODUwOGQ4XkEyXkFqcGc@._V1_SX300.jpg
+624,Batman: The Darkest Knight,2024,tt35885660,movie,https://m.media-amazon.com/images/M/MV5BM2YxNjJhNzgtOWFkYS00YzEzLTk0NDItN2MxY2IzZWFjM2YxXkEyXkFqcGc@._V1_SX300.jpg
+625,Batman Shattered Soul,2020,tt35914353,movie,https://m.media-amazon.com/images/M/MV5BMDQyZTIyYjMtNGNlYi00NDdlLThkNGItNmZiNGJhNDVmYzAxXkEyXkFqcGc@._V1_SX300.jpg
+626,Batman the series: Road to Under the Red Hood,2023,tt36157261,series,https://m.media-amazon.com/images/M/MV5BMDIyNTk5ZjktNTY5Mi00MmU3LWEwYTYtODk2YjY5ZmRlOTY5XkEyXkFqcGc@._V1_SX300.jpg
+627,Batman: Shadow of Justice,2025,tt36454134,movie,https://m.media-amazon.com/images/M/MV5BOGQ3MTA5MDUtOWViMS00MTVkLThjZDktOWE2MDhlNTFlZTcxXkEyXkFqcGc@._V1_SX300.jpg
+628,Batman Unmasked,2025,tt36600032,movie,https://m.media-amazon.com/images/M/MV5BZDY1Y2VmYjQtZGE5MC00Y2ExLTkzYTUtM2I4NGI0NTMyYWM0XkEyXkFqcGc@._V1_SX300.jpg
+629,Batman Goes to Therapy,2024,tt36606959,movie,https://m.media-amazon.com/images/M/MV5BNDg1NjQyYzctZjBkNi00OWViLWIxZTItYzUxYWIzNTkwNzk2XkEyXkFqcGc@._V1_SX300.jpg
+630,IS The Batman (2022) Movie WORTH Watching?,2022,tt36737157,movie,N/A
+631,Lego Batman Series,2015–,tt42261289,series,"https://m.media-amazon.com/images/M/MV5BODk0ZjA0ZTQtNDZiNS00ZTg0LWJlZTgtMjllYTdjNzg4NDRjXkEyXkFqcGc@._V1_QL75_UY562_CR236,0,380,562_.jpg"
+632,Batman: The First Night,2023,tt32118859,movie,https://m.media-amazon.com/images/M/MV5BNWE0ZmM1OGMtZTMyNy00OGM3LThiZDItZTFmZTJhZGYxMGQwXkEyXkFqcGc@._V1_SX300.jpg
+633,Batman the World's Greatest Detective,2017,tt32314977,series,https://m.media-amazon.com/images/M/MV5BOWRmMDQ3ZTctMTU3Ni00NGU3LTkzOTAtNWE3M2ZjMmMyYzhhXkEyXkFqcGdeQXVyNjg1MTAyNjA@._V1_SX300.jpg
+634,Batman: Knightfall Part 1: Knightfall,2026,tt32333324,movie,https://m.media-amazon.com/images/M/MV5BY2JkYzg3OGEtMjE2OS00ZTMwLWIyOTktYTQ5ZTI3ZmVkMTQyXkEyXkFqcGc@._V1_SX300.jpg
+635,Super Mario Nazi Batman,2008,tt32986180,movie,N/A
+636,Batman: Knightfall,1994,tt33009163,series,https://m.media-amazon.com/images/M/MV5BMjYyNWNiMzMtOGRiYi00NWIwLWI2ZGYtYTc2NmZkODgyOWNiXkEyXkFqcGc@._V1_SX300.jpg
+637,Batman '66 Meets the Green Hornet,2020,tt33163918,movie,https://m.media-amazon.com/images/M/MV5BYWE4M2ViZGItZDBjMy00MjI2LWE5MTktNDU2ZjJhYzg1YTVhXkEyXkFqcGc@._V1_SX300.jpg
+638,Batman & Robin,2008,tt33398419,movie,N/A
+639,Actually Batman,2025,tt36860873,movie,N/A
+640,Batman: Death of the Family,2025–,tt37028715,series,https://m.media-amazon.com/images/M/MV5BNzg4YjMxZGMtMzQyYS00MzdiLWFiOTMtMjNlZTBiMTJlYWIwXkEyXkFqcGc@._V1_SX300.jpg
+641,My friend Batman Tremblay,2025,tt37461686,movie,N/A
+642,Batman Four of a Kind,2025,tt39105903,movie,N/A
+643,The Next Batman: Proof of Concept,2027,tt39392302,movie,https://m.media-amazon.com/images/M/MV5BNzRkNTYwYzUtNThlZS00MjQxLTk5YmItODA2MDYwZTA5NmIxXkEyXkFqcGc@._V1_SX300.jpg
+644,Batman V Superman: Dawn of Justice (Ultimate Edition),2016,tt39637047,movie,N/A
+645,Batman: Shadows Over Gotham,2025,tt40197271,movie,"https://m.media-amazon.com/images/M/MV5BYjYxYzcyYjktZDgxNy00MTA1LWFhNmQtY2ZhYjcxNGM5YWIwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg"
